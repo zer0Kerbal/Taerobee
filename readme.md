@@ -197,7 +197,7 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
 [CKAN:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-* "CKAN"
-[CKAN:shd]: https://img.shields.io/badge/CKAN-MoarKerbals-white.svg?labelColor=E32811&style=plastic "CKAN"
+[CKAN:shd]: https://img.shields.io/badge/CKAN-Taerobee-white.svg?labelColor=E32811&style=plastic "CKAN"
 
 <!--- release links -->
 [CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/Taerobee "Curseforge"
@@ -248,20 +248,14 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 [UTUBE:img]:  https://img.youtube.com/vi/yz1PsuLLpho/0.jpg "YouTube! link"
 [UTUBE:link]: https://youtu.be/yz1PsuLLpho "Kottabo Talks Taerobee"
 
-<!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"
 [PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL "PayPal"
-
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon "Patreon"
 [PATREON:url]: https://www.patreon.com/bePatron?u=23390503 "Patreon"
-
 [GSPONS:img]: https://img.shields.io/badge/Github%20-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors "Github Sponsors"
 [GSPONS:url]: https://github.com/sponsors/zer0Kerbal "Github Sponsors"
-
 [BMCC:img]: https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&logo=buymeacoffee "Buy Me A Snack"
 [BMCC:url]: https://buymeacoffee.com/zer0Kerbal "Buy Me A Snack"
-
-<!-- Localization -->
 [EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "American English"
 [BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Brazilian-flag-sm.png "Brasil"
 [CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Chinese-flag-sm.png "中文"
@@ -280,6 +274,4 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
 [HA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Hawaii-flag-sm.png "ʻŌlelo Pākē"
 
-<!--
-this file: GPLv2 BY
-zer0Kerbal--> 
+<!-- this file: CC BY-NC-ND 3.0 Unported BY zer0Kerbal--> 
