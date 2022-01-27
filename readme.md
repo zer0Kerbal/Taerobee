@@ -8,8 +8,6 @@ updated: 01 Dec 2021 -->
 
 ## Download on [Curseforge][CURSFG:url] or [Github][GITHUB:url] or [SpaceDock][SPCDCK:url]. 
 
-##### Available on [CKAN][CKAN:url] as _`Taerobee`._
-
 #### Brings you:
 
 # Taerobee Space Technologies (TBEE)  
