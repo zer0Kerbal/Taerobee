@@ -134,8 +134,6 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 
 > ##### Disclaimer(s)
 >
-> This mod contains [`@taniwha`][LINK:taniwha]'s Launchpad.dll and textures from [Extraplanetary Launchpads][thread:epl].
->
 > *** All bundled mods are distributed under their own licenses***  
 > *** All art assets (textures, models, animations) are distributed under their own licenses***   
 
