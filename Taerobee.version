@@ -2,7 +2,7 @@
 	"NAME"	   : "Taerobee (TBEE)",
 	"URL"	   : "https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/Taerobee.version",
 	"DOWNLOAD" : "https://github.com/zer0Kerbal/Taerobee/releases/latest",
-	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/Changelog.cfg",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/changelog.md",
 	"GITHUB" :
 	{
 		"USERNAME"		    : "zer0Kerbal",
@@ -12,9 +12,9 @@
 	"VERSION" :
 	{
 		"MAJOR" : 1,
-		"MINOR" : 3,
-		"PATCH" : 9,
-		"BUILD" : 9
+		"MINOR" : 4,
+		"PATCH" : 0,
+		"BUILD" : 0
 	},
 	"KSP_VERSION" :
 	{
