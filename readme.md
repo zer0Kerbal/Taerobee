@@ -1,36 +1,27 @@
-<!-- Readme.md v1.5.4.4
+<!-- readme.md v1.6.5.3
 Taerobee (TBEE)
 created: 17 Jul 18
-updated: 01 Dec 2021 -->
+updated: 22 Jan 2022 -->
 
-[MODVERSION]: 1.3.9.9-adoption
-[KSPVERSION]: 1.12.2
-
-## Download on [Curseforge][CURSFG:url] or [Github][GITHUB:url] or [SpaceDock][SPCDCK:url]. 
-
-#### Brings you:
+[![MODNAME][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License CC BY-NC-SA 4.0][LIC:shd]][LIC:url]  
+[![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
+![Code][CODE:shd] ![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]
 
 # Taerobee Space Technologies (TBEE)  
 
 This mod adds some early rocket engines, such as Aerobee and X-4 (V-2 sounding rocket) to Kerbal Space Program.  
 
-#### Author [`@zer0Kerbal`][LINK:zer0Kerbal] originally by [`Beale`][LINK:beale]  
+## Author [`zer0Kerbal`][LINK:zer0Kerbal] and originally by [`Beale`][LINK:beale]  
 
-
-[![Mod Version][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License CC BY-ND 3.0 Unported][LIC:shd]][LIC:url]  
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
-
-![Code][CODE:shd] ![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd] 
-
-###### _brought to you by KGEx_
+brought to you by _KGEx_
 
 ## Features  
 
-- Adds 21 stockalike parts
-  - 11 Taerobee parts
-  - 6 Bumper with two styles of engines, (V1)
-  - 4 X-1 parts, including a pod with simple IVA
-- RealPlume (haven't verified)
+* Adds 21 stockalike parts
+  * 11 Taerobee parts
+  * 6 Bumper with two styles of engines, (V1)
+  * 4 X-1 parts, including a pod with simple IVA
+* RealPlume (haven't verified)
 
 ***
 
@@ -44,14 +35,24 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 
 #### Cabin notes  
 
-- This pack is essentially feature and part complete. There will be no additional parts.
-- There will be one more version (1.4.0.0) after this one with additional patches and improvements
-- I have not personally tested the patches  
-- Have a request? Glad to have them, kindly submit through GitHub.  
+* This pack is essentially feature and part complete.
+* There will be no additional parts.
+* There will be no more major version (1.4.0.0) after this one.
+* Any minor releases will be for additional patches and improvements
+* I have not personally tested the patches  
+* _Have a request?_
+  * Glad to have them!
+    * Kindly submit through GitHub.
+
+### Help Wanted
+>
+> * Would love someone to convert from FireSpitter to Stock and/or KSPWheel  
+> * Variant Textures and code to make it work always welcome!
+> * Model updates to Unity 2019
 
 #### Known issue(s)
 
-- if any arise, kindly report them to the GitHub repo/issues
+* if any arise, kindly report them to the GitHub repo/issues
 
 ***
 
@@ -59,11 +60,12 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 
 #### Taerobee
 
->- [x]  ![][EN] English  
+>- [x]  ![][EN] English
+>- [x]  ![][MX] Mexican (Mexicano)
 >- [x]  ![][RU] Russian (Русский)  [incomplete]
 >- [ ]  ***your translation here***
 >
->HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections solicited and welcome!* 
+>HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections solicited and welcome!*
 
 -----
 
@@ -75,54 +77,49 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 
 ### Want to Know More?
 
-- Discussions and news on this mod: See [Discussions][MOD:discuu] or [KSP Forums][MOD:forum]  
-- Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]  
-- Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:known]
+* Discussions and news on this mod: See [Discussions][MOD:discuu] or [KSP Forums][MOD:forum]  
+* Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]  
+* Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:known]
 
 ***
 
 ### Installation Directions  
 
-- Use [^3]   
+* Use [^3]   
 [![CKAN][CKAN:img]][CKAN:url]
 
 ### Dependencies
 
-- [x]  [Kerbal Space Program][KSP:url] [![][KSP:shd]][KSP:url] [^1]
+* [Kerbal Space Program][KSP:url] [![][KSP:shd]][KSP:url] [^1]
 
 ### Recommends  
 
-- [x]  [Module Manager][thread:mm] [^2]
+* [Module Manager][thread:mm] [^2]
 
 ### Suggests  
 
-- none
+* none
 
 ### Supports
 
-- [x]  [Real Plume][thread:rlp]
+* [Real Plume][thread:rlp] (untested)
+* [Waterfall Core][thread:waterfall] (experimental)
+* [Stock Waterfall Effects][thread:waterfall]
 
-### Conflicts
 
-- none
 
-### Replaces
-
-- none
-
-### Tags
-
-- parts, crewed, uncrewed
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
 <p><b>*red box below is a link to forum post on how to get support*</p>  
 <a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
   <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a></div>
 
-### Credits and Special Thanks 
+### Credits and Special Thanks
 
-- [@`Beale`][LINK:beale] for creating this cool mod. 
-- [@`Lisias`][LINK:lisias] - for organization
+* [`Beale`][LINK:beale] for creating this cool mod.
+* [`Lisias`][LINK:lisias] - for organization and intial prep
+* [`AtomicTech`][link:atomictech] aka [link-`JamesErvin-5`][link:jameservin-5] for Mexican translation and Waterfall configs
+* [`TK-313`][LINK:tk-313] - for the Russian translation
 
 
 ### Legal Mumbo Jumbo (License _provenance_)
@@ -219,15 +216,10 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 <!--- statics -->
 [LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
 [LINK:beale]: http://forum.kerbalspaceprogram.com/index.php?/profile/133334-beale/ "Beale"
-
-[LINK:realgecko]: https://forum.kerbalspaceprogram.com/index.php?/profile/162682-realgecko/ "RealGecko"
-[LINK:ericwi]: https://forum.kerbalspaceprogram.com/index.php?/profile/152716-ericwi/ "EricWi"
-[LINK:taniwha]: https://forum.kerbalspaceprogram.com/index.php?/profile/57176-taniwha/ "Taniwha"
-
-[LINK:maculator]: https://forum.kerbalspaceprogram.com/index.php?/profile/122127-maculator/ "maculator"
-[LINK:eleusislaarwall]: https://forum.kerbalspaceprogram.com/index.php?/profile/116286-eleusis-la-arwall/ "Eleusis La Arwal"
-[LINK:badsector]: https://forum.kerbalspaceprogram.com/index.php?/profile/118465-badsector/ "Badsector"
-[LINK:cy-one]: https://forum.kerbalspaceprogram.com/index.php?/profile/74874-cy-one/ "cy-one"
+[LINK:tk-313]: https://forum.kerbalspaceprogram.com/index.php?/profile/175537-tk-313/ "TK-313"
+[LINK:lisias]: https://forum.kerbalspaceprogram.com/index.php?/profile/187168-lisias/ "Lisias"
+[link:jameservin-5]: https://github.com/JamesErvin-5 "Atomic Tech / JamesErvin-5"
+[link:atomictech]: https://forum.kerbalspaceprogram.com/index.php?/profile/210823-atomictech/ "AtomicTech"
 
 <!-- footnotes -->
 [^1]: ***may*** work on other versions (YMMV)
@@ -273,3 +265,6 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 [HA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Hawaii-flag-sm.png "ʻŌlelo Pākē"
 
 <!-- this file: CC BY-NC-ND 3.0 Unported BY zer0Kerbal--> 
+
+[thread:wtfl]: https://forum.kerbalspaceprogram.com/index.php?/topic/196309-* "Waterfall Core"
+[thread:swfe]: https://forum.kerbalspaceprogram.com/index.php?/topic/200334-* "Stock Waterfall Effects"
