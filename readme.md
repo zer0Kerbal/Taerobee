@@ -23,7 +23,7 @@ brought to you by _KGEx_
   * 4 X-1 parts, including a pod with simple IVA
 * RealPlume (haven't verified)
 
-***
+---
 
 ### Kottabo Talks Taerobee  
 
@@ -50,64 +50,57 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 > * Variant Textures and code to make it work always welcome!
 > * Model updates to Unity 2019
 
-#### Known issue(s)
+---
 
-* if any arise, kindly report them to the GitHub repo/issues
-
-***
-
-### Localizations  
-
-#### Taerobee
+### Localization - _work in progress_
 
 >- [x]  ![][EN] English
 >- [x]  ![][MX] Mexican (Mexicano)
 >- [x]  ![][RU] Russian (Русский)  [incomplete]
 >- [ ]  ***your translation here***
 >
->HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections solicited and welcome!*
+> HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 
------
+---
 
 ### How to support this and other great mods by [`zer0Kerbal`][LINK:zer0Kerbal]  
 
-[![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
+[![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url] 
 
------
+---
 
-### Want to Know More?
+### See More
 
-* Discussions and news on this mod: See [Discussions][MOD:discuu] or [KSP Forums][MOD:forum]  
+* Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]  
 * Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]  
-* Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:known]
+* Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:known]  
 
-***
+---
 
-### Installation Directions  
+### Installation Directions:
 
-* Use [^3]   
-[![CKAN][CKAN:img]][CKAN:url]
+***Use***
+  CurseForge/OverWolf App (currently does not install dependencies) [^3]  
+
+  <a href="https://download.curseforge.com/">
+    <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
+</a>
+
+or [![CKAN][CKAN:img]][CKAN:url] [^3]  
 
 ### Dependencies
 
 * [Kerbal Space Program][KSP:url] [![][KSP:shd]][KSP:url] [^1]
 
-### Recommends  
-
-* [Module Manager][thread:mm] [^2]
-
 ### Suggests  
 
-* none
+* [Module Manager][thread:mm] [^2]
 
 ### Supports
 
 * [Real Plume][thread:rlp] (untested)
 * [Waterfall Core][thread:waterfall] (experimental)
 * [Stock Waterfall Effects][thread:waterfall]
-
-
-
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
 <p><b>*red box below is a link to forum post on how to get support*</p>  
@@ -121,35 +114,30 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 * [`AtomicTech`][link:atomictech] aka [link-`JamesErvin-5`][link:jameservin-5] for Mexican translation and Waterfall configs
 * [`TK-313`][LINK:tk-313] - for the Russian translation
 
-
 ### Legal Mumbo Jumbo (License _provenance_)
 
 #### Current (1) - [`zer0Kerbal`][LINK:zer0Kerbal]  
 
-> Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]   
+> Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]
 > License: [![License CC BY-ND 3.0 Unported][LIC:shd]][LIC:url]  
-
+>
 > ##### Disclaimer(s)
 >
-> *** All bundled mods are distributed under their own licenses***  
-> *** All art assets (textures, models, animations) are distributed under their own licenses***   
+> ***All bundled mods are distributed under their own licenses***  
+> ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
 
-
-### Original (0) - Author: [`Beale`][LINK:beale]  
+#### Original (0) - Author: [`Beale`][LINK:beale]  
 
 > [Thread][MOD:org:0:thread]  - [Download][MOD:org:0:download] - Source: [GitHub][MOD:org:0:source]  
 > License: [![CC-BY-NC-SA-4.0][LIC:org:shd]][LIC:org:url]
 
------
-
-##### Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date 
-
-
-***
-
-![][IMG:hero:2a] ![][IMG:hero:2b]  
-![][IMG:hero:2c] ![][IMG:hero:2d]  
-
+<details>
+  <summary>Some Eye Candy</summary>
+  <img src="https://i.imgur.com/gJxT3Pg.png" alt="Taerobee 01" width="75%" height="75%">
+  <img src="https://i.imgur.com/TXJhTyh.png" alt="Taerobee 02" width="75%" height="75%">
+  <img src="https://i.imgur.com/gpRlRET.png" alt="Taerobee 03" width="75%" height="75%">
+  <img src="https://i.imgur.com/Tyc0WpP.png" alt="Taerobee 04" width="75%" height="75%">
+</details>
 
 <!-- links -->
 [MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/119858-* "Mod Forum Thread"
@@ -171,23 +159,20 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 <!--- original mod -->
 [MOD:org:0:source]:   https://github.com/beale/Taerobee "GitHub"
 [MOD:org:0:thread]:   https://forum.kerbalspaceprogram.com/index.php?/topic/119858-* "Forum thread"
-[MOD:org:0:download]: https://github.com/net-lisias-kspu/Taerobee  "net-lisias-kspu 's GitHub Repo"
+[MOD:org:0:download]: https://github.com/net-lisias-kspu/Taerobee  "net-lisias-kspu's GitHub Repo"
 
 <!--- license  -->
 [LIC:url]:  https://creativecommons.org/licenses/by-nd/3.0/ "CC BY-ND 3.0 Unported"
-[LIC:logo]: https://licensebuttons.net/i/l/by-nd/transparent/33/66/99/76x22.png "CC BY-ND 3.0 Unported"
+[LIC:log]: https://licensebuttons.net/i/l/by-nd/transparent/33/66/99/76x22.png "CC BY-ND 3.0 Unported"
 [LIC:shd]:  https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/json/license.json "CC BY-ND 3.0 Unported"
 
 [LIC:org:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
-[LIC:org:logo]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
+[LIC:org:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
 [LIC:org:shd]:  https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
 
 <!--- AVC -->
 [AVC:shd]:     https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic "AVC"
 [AVCVLD:shd]:    https://github.com/zer0Kerbal/Taerobee/workflows/Validate%20AVC%20.version%20files/badge.svg?labelColor=black&style=plastic "AVC-Valid"
-
-
-<!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
 [CKAN:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-* "CKAN"
 [CKAN:shd]: https://img.shields.io/badge/CKAN-Taerobee-white.svg?labelColor=E32811&style=plastic "CKAN"
@@ -206,10 +191,12 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 [KSP:url]: http://kerbalspaceprogram.com/ "Kerbal Space Program"
 [KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/json/ksp.json&logo=data:image/webp;base64,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 "Kerbal Space Program"
 
+<!-- links to add-ons/mods -->
 
-<!-- other mods -->
 [thread:mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager"
 [thread:rlp]: https://forum.kerbalspaceprogram.com/index.php?/topic/188033-* "Real Plume"
+[thread:wtfl]: https://forum.kerbalspaceprogram.com/index.php?/topic/196309-* "Waterfall Core"
+[thread:swfe]: https://forum.kerbalspaceprogram.com/index.php?/topic/200334-* "Stock Waterfall Effects"
 
 <!--- statics -->
 [LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
@@ -218,20 +205,6 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 [LINK:lisias]: https://forum.kerbalspaceprogram.com/index.php?/profile/187168-lisias/ "Lisias"
 [link:jameservin-5]: https://github.com/JamesErvin-5 "Atomic Tech / JamesErvin-5"
 [link:atomictech]: https://forum.kerbalspaceprogram.com/index.php?/profile/210823-atomictech/ "AtomicTech"
-
-<!-- footnotes -->
-[^1]: ***may*** work on other versions (YMMV)
-[^2]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
-[^3]: this isn't a mod. ;P
-
-<!--- misc logos -->
-[IMG:hero:0]: https://i.imgur.com/y01A9en.png "Taerobee Flag"
-[IMG:hero:1]: https://spacedock.info/content/beale_328/Taerobee/Taerobee-1455675320.902058.jpg "Taerobee"
-
-[IMG:hero:2a]: https://i.imgur.com/gJxT3Pg.png "1"
-[IMG:hero:2b]: https://i.imgur.com/TXJhTyh.png "2"
-[IMG:hero:2c]: https://i.imgur.com/gpRlRET.png "3"
-[IMG:hero:2d]: https://i.imgur.com/Tyc0WpP.png?1 "3"
 
 [UTUBE:img]:  https://img.youtube.com/vi/yz1PsuLLpho/0.jpg "YouTube! link"
 [UTUBE:link]: https://youtu.be/yz1PsuLLpho "Kottabo Talks Taerobee"
@@ -262,7 +235,18 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
 [HA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Hawaii-flag-sm.png "ʻŌlelo Pākē"
 
-<!-- this file: CC BY-NC-ND 3.0 Unported BY zer0Kerbal--> 
+<!-- footnotes -->
+[^1]: ***may*** work on other versions (YMMV)
+[^2]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
+[^3]: this isn't a mod. ;P
 
-[thread:wtfl]: https://forum.kerbalspaceprogram.com/index.php?/topic/196309-* "Waterfall Core"
-[thread:swfe]: https://forum.kerbalspaceprogram.com/index.php?/topic/200334-* "Stock Waterfall Effects"
+<!-- this file: CC BY-NC-ND 3.0 Unported BY zer0Kerbal-->
+
+<!-- 
+[IMG:hero:2a]: https://i.imgur.com/gJxT3Pg.png "1"
+[IMG:hero:2b]: https://i.imgur.com/TXJhTyh.png "2"
+[IMG:hero:2c]: https://i.imgur.com/gpRlRET.png "3"
+[IMG:hero:2d]: https://i.imgur.com/Tyc0WpP.png "3"
+![][IMG:hero:2a] ![][IMG:hero:2b]  
+![][IMG:hero:2c] ![][IMG:hero:2d]  
+-->
