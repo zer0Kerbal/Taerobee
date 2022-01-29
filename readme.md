@@ -1,7 +1,7 @@
-<!-- readme.md v1.6.5.3
+<!-- readme.md v1.6.5.5
 Taerobee (TBEE)
 created: 17 Jul 18
-updated: 22 Jan 2022 -->
+updated: 27 Jan 2022 -->
 
 [![MODNAME][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License CC BY-NC-SA 4.0][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
