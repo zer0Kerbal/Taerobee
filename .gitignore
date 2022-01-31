@@ -1,4 +1,4 @@
-﻿# .gitignore v2.0.0.2
+﻿# .gitignore v2.0.0.6
 
 # Prerequisites
 *.d
@@ -50,25 +50,10 @@
 
 
 # zer0Kerbal common files
-Archive/
-Old/
-flaticons/
-Links/
-docs/*
-old/*
-NetKAN/*
 images.txt
 shields.md
-buildRelease.bat
-buildReleaseSub.bat
-deploy.bat
-deploySub.bat
-_buildRelease.bat
-_buildReleaseSub.bat
-_deploy.bat
-_deploySub.bat
-mod.version
 regex4loc.txt
+.vscode/*
 _*
 
 # database files
@@ -174,3 +159,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 graphics/Thumbs.db
 *.old
+[Rr]eadme.htm
