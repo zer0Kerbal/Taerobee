@@ -17,9 +17,6 @@ brought to you by _KGEx_
 
 ## Features  
 
-
-13 Taerobee parts, including
-
 * Adds 23 stockalike parts
   * Taerobee - 13 size00 parts, including
     * LFO engine
