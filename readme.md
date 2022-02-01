@@ -17,10 +17,17 @@ brought to you by _KGEx_
 
 ## Features  
 
-* Adds 21 stockalike parts
-  * 11 Taerobee parts
-  * 6 Bumper with two styles of engines, (V1)
-  * 4 X-1 parts, including a pod with simple IVA
+
+13 Taerobee parts, including
+
+* Adds 23 stockalike parts
+  * Taerobee - 13 size00 parts, including
+    * LFO engine
+    * Solid Fuel booster
+    * two adapters (size0 --> size00)
+    * Nosecone, control, animated science pod, and more
+  * Bumper - 6 size0 parts with two styles of engines, (V1)
+  * X-1 - 4 size1 parts, including a pod with simple IVA
 * RealPlume (haven't verified)
 
 ---
@@ -37,7 +44,7 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 
 * This pack is essentially feature and part complete.
 * There will be no additional parts.
-* There will be no more major version (1.4.0.0) after this one.
+* There will be no more major versions (1.4.0.0) after this one.
 * Any minor releases will be for additional patches and improvements
 * I have not personally tested the patches  
 * _Have a request?_
@@ -46,7 +53,6 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 
 ### Help Wanted
 >
-> * Would love someone to convert from FireSpitter to Stock and/or KSPWheel  
 > * Variant Textures and code to make it work always welcome!
 > * Model updates to Unity 2019
 
@@ -99,8 +105,10 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 ### Supports
 
 * [Real Plume][thread:rlp] (untested)
-* [Waterfall Core][thread:wtfl] (experimental)
-* [Stock Waterfall Effects][thread:swfe]
+* [Stock Waterfall Effects][thread:swfe] (experimental)
+  * Requires:
+  * [Stock Waterfall Effects][thread:swfe]
+  * [Waterfall Core][thread:wtfl] 
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
 <p><b>*red box below is a link to forum post on how to get support*</p>  
@@ -110,7 +118,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 ### Credits and Special Thanks
 
 * [`Beale`][LINK:beale] for creating this cool mod.
-* [`Lisias`][LINK:lisias] - for organization and intial prep
+* [`Lisias`][LINK:lisias] - for organization and initial prep
 * [`AtomicTech`][link:atomictech] aka [link-`JamesErvin-5`][link:jameservin-5] for Mexican translation and Waterfall configs
 * [`TK-313`][LINK:tk-313] - for the Russian translation
 
@@ -123,8 +131,8 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 >
 > ##### Disclaimer(s)
 >
-> ***All bundled mods are distributed under their own licenses***  
-> ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
+> All bundled mods are distributed under their own licenses  
+> All art assets (textures, models, animations, sounds) are distributed under their own licenses
 
 #### Original (0) - Author: [`Beale`][LINK:beale]  
 
