@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
     <iframe width="1070" height="602" src="https://www.youtube.com/embed/yz1PsuLLpho" title="Kottabo Talks Taerobee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
 
-#### Cabin notes  
+### Cabin notes  
 
 * This pack is essentially feature and part complete.
 * There will be no additional parts.
