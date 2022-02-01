@@ -29,6 +29,7 @@ brought to you by _KGEx_
   * Bumper - 6 size0 parts with two styles of engines, (V1)
   * X-1 - 4 size1 parts, including a pod with simple IVA
 * RealPlume (haven't verified)
+* Stock Waterfall Effects (work in progress)
 
 ---
 
