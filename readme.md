@@ -116,6 +116,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 ### Credits and Special Thanks
 
 * [`Beale`][LINK:beale] for creating this cool mod.
+* [`CobaltWolf`][LINK:cobaltwolf] - models.
 * [`Lisias`][LINK:lisias] - for organization and initial prep
 * [`AtomicTech`][link:atomictech] aka [link-`JamesErvin-5`][link:jameservin-5] for Mexican translation and Waterfall configs
 * [`TK-313`][LINK:tk-313] - for the Russian translation
@@ -146,7 +147,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 </details>
 
 <!-- links -->
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/119858-* "Mod Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/205846-* "Mod Forum Thread"
 
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/Changelog.cfg "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
@@ -207,6 +208,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 <!--- statics -->
 [LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
 [LINK:beale]: http://forum.kerbalspaceprogram.com/index.php?/profile/133334-beale/ "Beale"
+[LINK:cobaltwolf]: https://forum.kerbalspaceprogram.com/index.php?/profile/105588-cobaltwolf/ "CobaltWolf"
 [LINK:tk-313]: https://forum.kerbalspaceprogram.com/index.php?/profile/175537-tk-313/ "TK-313"
 [LINK:lisias]: https://forum.kerbalspaceprogram.com/index.php?/profile/187168-lisias/ "Lisias"
 [link:jameservin-5]: https://github.com/JamesErvin-5 "Atomic Tech / JamesErvin-5"
