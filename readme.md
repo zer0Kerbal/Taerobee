@@ -59,7 +59,7 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 ### Localization - _work in progress_
 
 >- [x]  ![][EN] English
->- [x]  ![][ME] Mexican (Mexicano)
+>- [x]  ![][ME] Mexican Spanish (Mexicano)
 >- [x]  ![][RU] Russian (Русский)  [incomplete]
 >- [ ]  ***your translation here***
 >
