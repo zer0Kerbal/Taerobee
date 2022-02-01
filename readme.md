@@ -55,7 +55,8 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 ### Localization - _work in progress_
 
 >- [x]  ![][EN] English
->- [x]  ![][ME] Mexican (Mexicano)
+>- [x]  ![][ME] Mexican Spanish (Español Mexicano)
+>- [x]  ![][ES] Spanish (Español)  [incomplete]
 >- [x]  ![][RU] Russian (Русский)  [incomplete]
 >- [ ]  ***your translation here***
 >
@@ -111,7 +112,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 * [`Beale`][LINK:beale] for creating this cool mod.
 * [`Lisias`][LINK:lisias] - for organization and intial prep
-* [`AtomicTech`][link:atomictech] aka [link-`JamesErvin-5`][link:jameservin-5] for Mexican translation and Waterfall configs
+* [`AtomicTech`][link:atomictech] aka [link-`JamesErvin-5`][link:jameservin-5] for Mexican Spanish translation and Waterfall configs
 * [`TK-313`][LINK:tk-313] - for the Russian translation
 
 ### Legal Mumbo Jumbo (License _provenance_)
