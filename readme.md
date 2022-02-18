@@ -9,7 +9,7 @@ updated: 27 Jan 2022 -->
 
 # Taerobee Space Technologies (TBEE)  
 
-This mod adds early rocket engines, such as Aerobee and X-4 (V-2 sounding rocket) to Kerbal Space Program.  
+This mod adds some early rocket engines, such as Aerobee and X-4 (V-2 sounding rocket) to Kerbal Space Program.  
 
 ## Author [`zer0Kerbal`][LINK:zer0Kerbal] and originally by [`Beale`][LINK:beale]  
 
@@ -17,16 +17,11 @@ brought to you by _KGEx_
 
 ## Features  
 
-* Adds 23 stockalike parts
-  * Taerobee - 13 size00 parts, including
-    * LFO engine
-    * Solid Fuel booster
-    * two adapters (size0 --> size00)
-    * Nosecone, control, animated science pod, and more
-  * Bumper - 6 size0 parts with two styles of engines, (V1)
-  * X-1 - 4 size1 parts, including a pod with simple IVA
+* Adds 21 stockalike parts
+  * 11 Taerobee parts
+  * 6 Bumper with two styles of engines, (V1)
+  * 4 X-1 parts, including a pod with simple IVA
 * RealPlume (haven't verified)
-* Stock Waterfall Effects (work in progress)
 
 ---
 
@@ -38,11 +33,11 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
     <iframe width="1070" height="602" src="https://www.youtube.com/embed/yz1PsuLLpho" title="Kottabo Talks Taerobee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
 
-### Cabin notes  
+#### Cabin notes  
 
 * This pack is essentially feature and part complete.
 * There will be no additional parts.
-* There will be no more major versions (1.4.0.0) after this one.
+* There will be no more major version (1.4.0.0) after this one.
 * Any minor releases will be for additional patches and improvements
 * I have not personally tested the patches  
 * _Have a request?_
@@ -51,6 +46,7 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 
 ### Help Wanted
 >
+> * Would love someone to convert from FireSpitter to Stock and/or KSPWheel  
 > * Variant Textures and code to make it work always welcome!
 > * Model updates to Unity 2019
 
@@ -59,7 +55,8 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 ### Localization - _work in progress_
 
 >- [x]  ![][EN] English
->- [x]  ![][ME] Mexican Spanish (Mexicano)
+>- [x]  ![][ME] Mexican Spanish (Español Mexicano)
+>- [x]  ![][ES] Spanish (Español)  [incomplete]
 >- [x]  ![][RU] Russian (Русский)  [incomplete]
 >- [ ]  ***your translation here***
 >
@@ -103,10 +100,8 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 ### Supports
 
 * [Real Plume][thread:rlp] (untested)
-* [Stock Waterfall Effects][thread:swfe] (experimental)
-  * Requires:
-  * [Stock Waterfall Effects][thread:swfe]
-  * [Waterfall Core][thread:wtfl] 
+* [Waterfall Core][thread:wtfl] (experimental)
+* [Stock Waterfall Effects][thread:swfe]
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
 <p><b>*red box below is a link to forum post on how to get support*</p>  
@@ -116,9 +111,8 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 ### Credits and Special Thanks
 
 * [`Beale`][LINK:beale] for creating this cool mod.
-* [`CobaltWolf`][LINK:cobaltwolf] - models.
-* [`Lisias`][LINK:lisias] - for organization and initial prep
-* [`AtomicTech`][link:atomictech] aka [link-`JamesErvin-5`][link:jameservin-5] for Mexican translation and Waterfall configs
+* [`Lisias`][LINK:lisias] - for organization and intial prep
+* [`AtomicTech`][link:atomictech] aka [link-`JamesErvin-5`][link:jameservin-5] for Mexican Spanish translation and Waterfall configs
 * [`TK-313`][LINK:tk-313] - for the Russian translation
 
 ### Legal Mumbo Jumbo (License _provenance_)
@@ -130,8 +124,8 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 >
 > ##### Disclaimer(s)
 >
-> All bundled mods are distributed under their own licenses  
-> All art assets (textures, models, animations, sounds) are distributed under their own licenses
+> ***All bundled mods are distributed under their own licenses***  
+> ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
 
 #### Original (0) - Author: [`Beale`][LINK:beale]  
 
@@ -147,7 +141,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 </details>
 
 <!-- links -->
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/205846-* "Mod Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/119858-* "Mod Forum Thread"
 
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/Changelog.cfg "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
@@ -208,7 +202,6 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 <!--- statics -->
 [LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
 [LINK:beale]: http://forum.kerbalspaceprogram.com/index.php?/profile/133334-beale/ "Beale"
-[LINK:cobaltwolf]: https://forum.kerbalspaceprogram.com/index.php?/profile/105588-cobaltwolf/ "CobaltWolf"
 [LINK:tk-313]: https://forum.kerbalspaceprogram.com/index.php?/profile/175537-tk-313/ "TK-313"
 [LINK:lisias]: https://forum.kerbalspaceprogram.com/index.php?/profile/187168-lisias/ "Lisias"
 [link:jameservin-5]: https://github.com/JamesErvin-5 "Atomic Tech / JamesErvin-5"
