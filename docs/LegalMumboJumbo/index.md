@@ -4,4 +4,4 @@
 
 
 ## Documents
-- [LegalMumboJumbo](Forum-Beale-explicit-permission.png)
+- [LegalMumboJumbo](LegalMumboJumbo.md)
