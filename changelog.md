@@ -1,8 +1,14 @@
-| modName | Taerobee (TBEE)                                                |
-| ------- | -------------------------------------------------------------- |
-| license | CC-BY-ND-3.0                                                   |
-| website | (https://forum.kerbalspaceprogram.com/index.php?/topic/205846) |
-| author  | Tantares (Beale) and zer0Kerbal                                |
+# Changelog  
+  
+| modName    | Taerobee (TBEE)                                                  |
+| ---------- | ---------------------------------------------------------------- |
+| license    | CC-BY-ND-3.0                                                     |
+| author     | Tantares (Beale) and zer0Kerbal                                  |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/205846-*) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/Taerobee)              |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/Taerobee)            |
+| spacedock  | (https://spacedock.info/mod/2905)                                |
+| ckan       | Taerobee                                                         |
 
 # Version 1.4.0.0 - Mexican Waterfalls Adapted - 2022-01-31 [KSP 1.12.2]
 
