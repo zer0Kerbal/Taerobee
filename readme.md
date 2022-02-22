@@ -131,8 +131,8 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 >
 > ##### Disclaimer(s)
 >
-> __All bundled mods are distributed under their own licenses__
-> __All art assets (textures, models, animations, sounds) are distributed under their own licenses__
+> _All bundled mods are distributed under their own licenses_
+> _All art assets (textures, models, animations, sounds) are distributed under their own licenses_
 
 #### Original (0) - Author: [`Beale`][LINK:beale]  
 
