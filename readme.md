@@ -9,7 +9,7 @@ updated: 27 Jan 2022 -->
 
 # Taerobee Space Technologies (TBEE)  
 
-This mod adds early rocket engines, such as Aerobee and X-4 (V-2 sounding rocket) to Kerbal Space Program.  
+This mod adds some early rocket engines, such as Aerobee and X-4 (V-2 sounding rocket) to Kerbal Space Program.  
 
 ## Author [`zer0Kerbal`][LINK:zer0Kerbal] and originally by [`Beale`][LINK:beale]  
 
@@ -26,7 +26,7 @@ brought to you by _KGEx_
   * Bumper - 6 size0 parts with two styles of engines, (V1)
   * X-1 - 4 size1 parts, including a pod with simple IVA
 * RealPlume (haven't verified)
-* Stock Waterfall Effects (work in progress)
+* Stock Waterfall Effects
 
 ---
 
@@ -59,7 +59,8 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 ### Localization - _work in progress_
 
 >- [x]  ![][EN] English
->- [x]  ![][ME] Mexican Spanish (Mexicano)
+>- [x]  ![][ME] Mexican Spanish (Español Mexicano)
+>- [x]  ![][ES] Spanish (Español)  [incomplete]
 >- [x]  ![][RU] Russian (Русский)  [incomplete]
 >- [ ]  ***your translation here***
 >
@@ -81,7 +82,7 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 
 ---
 
-### Installation Directions:
+### Installation Directions
 
 ***Use***
   CurseForge/OverWolf App (currently does not install dependencies) [^3]  
@@ -106,7 +107,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 * [Stock Waterfall Effects][thread:swfe] (experimental)
   * Requires:
   * [Stock Waterfall Effects][thread:swfe]
-  * [Waterfall Core][thread:wtfl] 
+  * [Waterfall Core][thread:wtfl]
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
 <p><b>*red box below is a link to forum post on how to get support*</p>  
@@ -115,10 +116,10 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 ### Credits and Special Thanks
 
-* [`Beale`][LINK:beale] for creating this cool mod.
-* [`CobaltWolf`][LINK:cobaltwolf] - models.
-* [`Lisias`][LINK:lisias] - for organization and initial prep
-* [`AtomicTech`][link:atomictech] aka [link-`JamesErvin-5`][link:jameservin-5] for Mexican translation and Waterfall configs
+* [`Beale`][LINK:beale] for creating this cool mod including art assets.
+* [`CobaltWolf`][LINK:cobaltwolf] - models.
+* [`Lisias`][LINK:lisias] - for organization and intial prep
+* [`AtomicTech`][link:atomictech] aka [link-`JamesErvin-5`][link:jameservin-5] for Mexican Spanish translation and Waterfall configs
 * [`TK-313`][LINK:tk-313] - for the Russian translation
 
 ### Legal Mumbo Jumbo (License _provenance_)
