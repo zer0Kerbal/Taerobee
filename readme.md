@@ -1,19 +1,21 @@
-<!-- readme.md v1.6.5.5
+<!-- readme.md v1.6.5.6
 Taerobee (TBEE)
 created: 17 Jul 18
-updated: 27 Jan 2022 -->
+updated: 22 Feb 2022 -->
 
 [![MODNAME][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License CC BY-NC-SA 4.0][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
 ![Code][CODE:shd] ![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]
 
+
+
 # Taerobee Space Technologies (TBEE)  
 
 This mod adds some early rocket engines, such as Aerobee and X-4 (V-2 sounding rocket) to Kerbal Space Program.  
 
-## Author [`zer0Kerbal`][LINK:zer0Kerbal] and originally by [`Beale`][LINK:beale]  
 
-brought to you by _KGEx_
+
+## By [`zer0Kerbal`][LINK:zer0Kerbal] and originally by [`Beale`][LINK:beale]  
 
 ## Features  
 
@@ -58,11 +60,11 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 
 ### Localization - _work in progress_
 
->- [x]  ![][EN] English
->- [x]  ![][ME] Mexican Spanish (Español Mexicano)
->- [x]  ![][ES] Spanish (Español)  [incomplete]
->- [x]  ![][RU] Russian (Русский)  [incomplete]
->- [ ]  ***your translation here***
+> * [x] ![][EN] English
+> * [x] ![][ME] Mexican Spanish (Español Mexicano) [incomplete]
+> * [x] ![][ES] Spanish (Español) [incomplete]
+> * [x] ![][RU] Russian (Русский) [incomplete]
+> * [ ]  ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 
@@ -115,12 +117,15 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
   <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a></div>
 
 ### Credits and Special Thanks
-
-* [`Beale`][LINK:beale] for creating this cool mod including art assets.
-* [`CobaltWolf`][LINK:cobaltwolf] - models.
-* [`Lisias`][LINK:lisias] - for organization and intial prep
-* [`AtomicTech`][link:atomictech] aka [link-`JamesErvin-5`][link:jameservin-5] for Mexican Spanish translation and Waterfall configs
-* [`TK-313`][LINK:tk-313] - for the Russian translation
+>
+>* [`Beale`][LINK:beale] for creating this cool mod including art assets.
+>* [`CobaltWolf`][LINK:cobaltwolf] - models.
+>* [`Lisias`][LINK:lisias] - for organization and intial prep
+>* [`AtomicTech`][link:atomictech] aka [`AtomikkuSan`][link:AtomikkuSan] for:
+>   * Mexican Spanish (Español Mexicano) translation
+>   * Spanish (Español) translation
+>   * Waterfall configs
+>* [`TK-313`][LINK:tk-313] - for the Russian translation
 
 ### Legal Mumbo Jumbo (License _provenance_)
 
@@ -212,7 +217,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [LINK:cobaltwolf]: https://forum.kerbalspaceprogram.com/index.php?/profile/105588-cobaltwolf/ "CobaltWolf"
 [LINK:tk-313]: https://forum.kerbalspaceprogram.com/index.php?/profile/175537-tk-313/ "TK-313"
 [LINK:lisias]: https://forum.kerbalspaceprogram.com/index.php?/profile/187168-lisias/ "Lisias"
-[link:jameservin-5]: https://github.com/JamesErvin-5 "Atomic Tech / JamesErvin-5"
+[link:AtomikkuSan]: https://github.com/AtomikkuSan "AtomicTech / AtomikkuSan"
 [link:atomictech]: https://forum.kerbalspaceprogram.com/index.php?/profile/210823-atomictech/ "AtomicTech"
 
 [UTUBE:img]:  https://img.youtube.com/vi/yz1PsuLLpho/0.jpg "YouTube! link"
