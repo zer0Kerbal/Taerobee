@@ -1,6 +1,7 @@
 {
     "schedule": "weekly",
     "ignoredFiles": [
+        "/GameData/Taerobee/Parts/@thumbs/*,
         "GameData/*",
         "**/GameData/**",
         "**/@thumbs/**",
