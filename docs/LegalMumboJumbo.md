@@ -12,6 +12,6 @@ updated: 01 Feb 2022
 
 # Taerobee (TBEE)
 
-* ![LegalMumboJumbo](docs/LegalMumboJumbo/Forum-Beale-explicit-permission.png)
+* ![LegalMumboJumbo](LegalMumboJumbo/Forum-Beale-explicit-permission.png)
 
 <!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal-->
