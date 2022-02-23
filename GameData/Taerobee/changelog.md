@@ -1,8 +1,89 @@
-| modName | Taerobee (TBEE)                                                |
-| ------- | -------------------------------------------------------------- |
-| license | CC-BY-ND-3.0                                                   |
-| website | (https://forum.kerbalspaceprogram.com/index.php?/topic/205846) |
-| author  | Tantares (Beale) and zer0Kerbal                                |
+# Changelog  
+  
+| modName    | Taerobee (TBEE)                                                  |
+| ---------- | ---------------------------------------------------------------- |
+| license    | CC-BY-ND-3.0                                                     |
+| author     | Tantares (Beale) and zer0Kerbal                                  |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/205846-*) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/Taerobee)              |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/Taerobee)            |
+| spacedock  | (https://spacedock.info/mod/2905)                                |
+| ckan       | Taerobee                                                         |
+
+# Version 1.4.1.0 - Spanish Waterfall Snacks
+
+* 22 Feb 2022
+* Release for Kerbal Space Program [KSP 1.12.x]
+
+## DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
+
+---
+
+### Parts
+
+* Update
+* [taerobee-parachute.cfg]
+  * change [attachRules] from 1,0,1,0,0 to 1,0,1,1,0
+  * correct [crashTolerance] spelling - (that graphitti artist again, spraying e's)
+  * [ModuleCargoPart]'s burning question answered: [stackableQuantity] = 10
+  * closes #129 - [Bug 🐞]: [tbee-taerobee-parachute] attachment
+  * closes #122 - [Bug 🐞]: [tbee-taerobee-parachute] log errors
+
+### Localization and Compatibility
+
+* Update
+  * [EnginesPlumeSWE.cfg] v1.0.1.0
+    * Waterfall patch
+    * Thank you to @AtomicTech aka AtomikkuSan
+    * closes #105 -  Updated the Waterfall Patch!
+* Add
+  * Localization - Spanish (Español) <es-es.cfg>
+    * Create [es-es.cfg]
+    * Thank you to @AtomicTech aka AtomikkuSan
+    * closes #21 - Localization - Spanish (Español) <es-es.cfg>
+  * [Snacks.cfg] v1.0.1.0
+    * Create [Snacks.cfg]
+    * Thank you to @AtomicTech aka AtomikkuSan
+    * added :FOR[]
+    * closes #109 -  Snacks-LS Support
+  * [USI-LS.cfg] v1.0.1.0
+    * create [USI-LS.cfg]
+    * Thank you to @AtomicTech aka AtomikkuSan
+    * closes #120 -  USI-LS Support
+  * localization files
+    * [en-us.cfg] v1.0.3.0
+      * add [#TBEE-X1-SNACKS]
+    * [es-es.cfg] v1.0.2.1
+    * [es-mx.cfg] v1.0.2.1
+    * [ru.cfg] v1.0.1.0
+    * updates #6 - Localization - Master
+    * updates #117 -  Update Localization
+
+### Docs/
+
+* update [readme.md] v1.6.5.6
+* update [changelog.md] v1.4.1.0
+* add [Attribution.md] v1.1.0.0
+* /Localization
+* [LegalMumboJumbo]
+* [Part-Invoice]
+* ReleaseNotes/
+  * [1.3.9.9]
+  * [1.4.0.0]
+  * [1.4.1.0]
+
+### Status
+
+* Release changes (internal)
+  * closes #112 -  Taerobee Release 1.4.1.0-release - Spanish Waterfall Snacks
+  * closes #113 -  Version 1.4.1.0-release
+  * closes #114 -  1.4.1.0 Verify Legal MumboJumbo
+  * closes #115 -  1.4.1.0 Update documentation
+  * closes #116 -  1.4.1.0 - Social Media
+  * closes #110 -  Minor Error in the ReadMe.md
+  * updates #118 -  make sure all tags are complete
+
+---
 
 # Version 1.4.0.0 - Mexican Waterfalls Adapted - 2022-01-31 [KSP 1.12.2]
 
