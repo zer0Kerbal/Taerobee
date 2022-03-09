@@ -1,4 +1,4 @@
-﻿# .gitignore v2.0.1.0
+﻿# .gitignore v2.0.2.0
 
 # Prerequisites
 *.d
@@ -50,7 +50,6 @@
 
 
 # zer0Kerbal common files
-.vscode/*
 regex4loc.txt
 _*
 
