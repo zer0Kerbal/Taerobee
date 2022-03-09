@@ -1,13 +1,22 @@
 {
     "schedule": "weekly",
     "ignoredFiles": [
-        "GameData/Taerobee/Parts/@thumbs/*",
         "GameData/*",
-        "**/GameData/**",
-        "**/@thumbs/**",
+        "GameData/**",
+        "docs/LegalMumboJumbo/*",
+        "GameData/Taerobee/Parts/@thumbs/*",
+        "GameData/Taerobee/Parts/@thumbs/*",
+        "GameData/Taerobee/Spaces/X1-Crew-Interior/*",
+        "source/*",
+	    "**/configs/**",
+	    "**/Props/**",
+	    "**/VintageDials/**",
+	    "**/FX/**",
         "**/Assets/**",
-        "**/LegalMumboJumbo/**",
-        "docs/LegalMumboJumbo/*"
+        "**/Flags/**",
+        "**/Agencies/**",
+        "**/Spaces/**",
+        "**/@thumbs/**"
     ],
     "aggressiveCompression": "false",
     "compressWiki": "true",
