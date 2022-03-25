@@ -10,6 +10,67 @@
 | spacedock  | (https://spacedock.info/mod/2905)                                |
 | ckan       | Taerobee                                                         |
 
+# Version 1.4.2.0-release `<Grand Adventure's End>`
+
+* 22 Feb 2022
+* Release for Kerbal Space Program [KSP 1.12.x]
+
+## DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
+
+---
+
+### Parts
+
+* Add
+* [tbee-bumper-engine-slimJim]
+  * [title] = Thumper RM-1GU "Slim Jim" Rocket Motor
+  * [description] = Who knew? We could reduce the weight by 20% again!
+  
+### Localization and Compatibility
+
+* Update
+  * [EnginesPlumeSWE.cfg] v1.0.2.0
+    * Waterfall patch
+    * Thank you to @AtomicTech aka AtomikkuSan
+    * closes #135 -  Updated the Waterfall Patch!
+  * localization files
+    * [en-us.cfg] v1.0.4.0
+      * add
+        * [#TBEE-Bumper-Engine-SlimJim]
+        * [#TBEE-Bumper-Engine-SlimJim-desc]
+        * [#TBEE-Bumper-Engine-SlimJim-tags]
+    * [es-es.cfg] v1.0.2.1
+      * added above, but commented out
+    * [es-mx.cfg] v1.0.2.1
+      * added above, but commented out
+    * [ru.cfg] v1.0.2.1
+      * added above, but commented out
+    * updates #6 - Localization - Master
+    * updates #117 -  Update Localization
+
+### Docs/
+
+* update [readme.md] v1.6.6.0
+* update [changelog.md] v1.4.1.0
+* add [Attribution.md] v1.1.0.0
+* /Localization
+* [LegalMumboJumbo]
+* [Part-Invoice]
+* ReleaseNotes/
+  * [1.4.3.0]
+
+### Status
+
+* Issues
+  * close #139 - 1.4.2.0 Social Media
+  * close #138 - 1.4.2.0 Update Documentation
+  * close #137 - 1.4.2.0 Verify Legal Mumbo Jumbo
+  * close #136 - Taerobee 1.4.2.0-release `<Grand Adventure's End>`
+  * close #135 - [Bug 🐞]: Update EnginesPlumeSWE.cfg
+  * close #134 - [Bug 🐞]: Alien Green Glow in the Editors
+
+---
+
 # Version 1.4.1.0 - Spanish Waterfall Snacks
 
 * 22 Feb 2022
