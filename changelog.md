@@ -12,7 +12,7 @@
 
 # Version 1.4.2.0-release `<Grand Adventure's End>`
 
-* 22 Feb 2022
+* 25 Mar 2022
 * Release for Kerbal Space Program [KSP 1.12.x]
 
 ## DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
