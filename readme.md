@@ -1,11 +1,16 @@
-<!-- readme.md v1.6.5.6
+<!-- readme.md v1.6.6.1
 Taerobee (TBEE)
-created: 17 Jul 18
-updated: 22 Feb 2022 -->
+created: 01 Oct 2019
+updated: 22 Mar 2022 -->
 
-[![MODNAME][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License CC BY-NC-SA 4.0][LIC:shd]][LIC:url]  
+<!--this file: CC BY-ND 3.0 unported by zer0Kerbal-->
+
+[![Taerobee][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
-![Code][CODE:shd] ![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]
+![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]
+
+[![GitHub Pages][MOD:pages:shd]][MOD:pages]
 
 
 
@@ -15,7 +20,7 @@ This mod adds some early rocket engines, such as Aerobee and X-4 (V-2 sounding r
 
 
 
-## By [`zer0Kerbal`][LINK:zer0Kerbal] and originally by [`Beale`][LINK:beale]  
+## By [`zer0Kerbal`][zer0Kerbal] and originally by [`Beale`][beale]  
 
 ## Features  
 
@@ -32,12 +37,14 @@ This mod adds some early rocket engines, such as Aerobee and X-4 (V-2 sounding r
 
 ---
 
-### Kottabo Talks Taerobee  
+### Youtube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-kottabos/)
 
-https://www.youtube.com/watch?v=yz1PsuLLpho
+[![Kottabos reviews Dreamer](https://img.youtube.com/vi/yz1PsuLLpho/0.jpg)](https://www.youtube.com/watch?v=yz1PsuLLpho)
+
 <details>
-  <summary>Embedded Kottabo Youtube Video</summary>
-    <iframe width="1070" height="602" src="https://www.youtube.com/embed/yz1PsuLLpho" title="Kottabo Talks Taerobee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <summary><b>Youtube review by <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/ ">@Kottabos Gaming</a></b></summary>
+  Support on <a href="https://www.patreon.com/Kottabosgames">Patreon.</a>
+  <iframe width="1136" height="639" src="https://www.youtube.com/embed/yz1PsuLLpho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
 
 ### Cabin notes  
@@ -49,38 +56,40 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
 * I have not personally tested the patches  
 * _Have a request?_
   * Glad to have them!
-    * Kindly submit through GitHub.
+    * Kindly submit through [GitHub][MOD:issue].
 
 ### Help Wanted
 >
 > * Variant Textures and code to make it work always welcome!
 > * Model updates to Unity 2019
+> * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
 ---
 
-### Localization - _work in progress_
+### Localization
 
-> * [x] ![][EN] English
-> * [x] ![][ME] Mexican Spanish (Español Mexicano) [incomplete]
-> * [x] ![][ES] Spanish (Español) [incomplete]
-> * [x] ![][RU] Russian (Русский) [incomplete]
-> * [ ]  ***your translation here***
+> * ![English][EN] English
+> * ![Mexican Spanish][ME] Mexican Spanish (Español Mexicano) [incomplete]
+> * ![Spanish][ES] Spanish (Español) [incomplete]
+> * ![Russian][RU] Russian (Русский) [incomplete]
+> * ***your translation here***
 >
-> HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+> HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. _Additions and corrections welcome!_
 
 ---
 
-### How to support this and other great mods by [`zer0Kerbal`][LINK:zer0Kerbal]  
+### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]  
 
-[![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url] 
+[![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
 
 ---
 
 ### See More
 
-* Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]  
-* Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]  
-* Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:known]  
+* Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
+* Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
+* Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:known]
+* GitHub Pages : See [Pages][MOD:pages]
 
 ---
 
@@ -90,59 +99,61 @@ https://www.youtube.com/watch?v=yz1PsuLLpho
   CurseForge/OverWolf App (currently does not install dependencies) [^3]  
 
   <a href="https://download.curseforge.com/">
-    <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
+    <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="20%" height="20%">
 </a>
 
 or [![CKAN][CKAN:img]][CKAN:url] [^3]  
 
 ### Dependencies
 
-* [Kerbal Space Program][KSP:url] [![][KSP:shd]][KSP:url] [^1]
+* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^1]
 
 ### Suggests  
 
-* [Module Manager][thread:mm] [^2]
+* [Module Manager][mm] [^2]
 
 ### Supports
 
-* [Real Plume][thread:rlp] (untested)
-* [Stock Waterfall Effects][thread:swfe] (experimental)
+* [Real Plume][rlp] (untested)
+* [Stock Waterfall Effects][swfe] (experimental)
   * Requires:
-  * [Stock Waterfall Effects][thread:swfe]
-  * [Waterfall Core][thread:wtfl]
+  * [Stock Waterfall Effects][swfe]
+  * [Waterfall Core][wtfl]
 
+---
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
 <p><b>*red box below is a link to forum post on how to get support*</p>  
 <a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
-  <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a></div>
+  <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</div>
+---
 
 ### Credits and Special Thanks
 >
->* [`Beale`][LINK:beale] for creating this cool mod including art assets.
->* [`CobaltWolf`][LINK:cobaltwolf] - models.
->* [`Lisias`][LINK:lisias] - for organization and intial prep
->* [`AtomicTech`][link:atomictech] aka [`AtomikkuSan`][link:AtomikkuSan] for:
+>* [`Beale`][beale] for creating this cool mod including art assets.
+>* [`CobaltWolf`][cobaltwolf] - models.
+>* [`Lisias`][lisias] - for organization and intial prep
+>* [`AtomicTech`][atomictech] aka [`AtomikkuSan`][AtomikkuSan] for:
 >   * Mexican Spanish (Español Mexicano) translation
 >   * Spanish (Español) translation
 >   * Waterfall configs
->* [`TK-313`][LINK:tk-313] - for the Russian translation
+>* [`TK-313`][tk-313] - for the Russian translation
 
 ### Legal Mumbo Jumbo (License _provenance_)
 
-#### Current (1) - [`zer0Kerbal`][LINK:zer0Kerbal]  
+#### Current (1) - [`zer0Kerbal`][zer0Kerbal]  
 
 > Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]
-> License: [![License CC BY-ND 3.0 Unported][LIC:shd]][LIC:url]  
+> License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
 >
 > ##### Disclaimer(s)
 >
 > _All bundled mods are distributed under their own licenses_
 > _All art assets (textures, models, animations, sounds) are distributed under their own licenses_
 
-#### Original (0) - Author: [`Beale`][LINK:beale]  
+#### Original (0) - Author: [`Beale`][beale]  
 
-> [Thread][MOD:org:0:thread]  - [Download][MOD:org:0:download] - Source: [GitHub][MOD:org:0:source]  
-> License: [![CC-BY-NC-SA-4.0][LIC:org:shd]][LIC:org:url]
+> Forum: [Thread][MOD:0:thread] - [Download][MOD:0:download] - Source: [GitHub][MOD:0:source]  
+> License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
 
 <details>
   <summary>Some Eye Candy</summary>
@@ -153,42 +164,47 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 </details>
 
 <!-- links -->
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/205846-* "Mod Forum Thread"
-
-[MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/Changelog.cfg "Changelog"
+[MOD:attr]: https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/Attribution.md "Attribution"
+[MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/changelog.md "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/Taerobee/discussions "Discussions"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/205846-* "Taerobee Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/Taerobee/issues "GitHub Issues"
 [MOD:known]: https://github.com/zer0Kerbal/Taerobee/wiki/Known-Issues "Known Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/Taerobee/blob/master/LICENSE
 [MOD:local]: https://github.com/zer0Kerbal/Taerobee/tree/master/GameData/Taerobee/Localization"Localization"
+[MOD:wiki]: https://zer0kerbal.github.io/Taerobee/ "Wiki"
+[MOD:pages]: https://zer0kerbal.github.io/Taerobee/ "GitHub Pages"
 [MOD:wiki]: https://github.com/zer0Kerbal/Taerobee/wiki "Wiki"
 
 <!--- mod -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/json/mod.json
 
-[CODE:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/json/code.json
+[MOD:pages:shd]: https://github.com/zer0Kerbal/Taerobee/actions/workflows/pages/pages-build-deployment/badge.svg "GitHub IO"
 
-<!--- original mod -->
-[MOD:org:0:source]:   https://github.com/beale/Taerobee "GitHub"
-[MOD:org:0:thread]:   https://forum.kerbalspaceprogram.com/index.php?/topic/119858-* "Forum thread"
-[MOD:org:0:download]: https://github.com/net-lisias-kspu/Taerobee  "net-lisias-kspu's GitHub Repo"
+<!--- mod provenance -->
+[MOD:0:source]: https://github.com/beale/Taerobee "GitHub"
+[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/119858-* "Forum thread"
+[MOD:0:download]: https://github.com/net-lisias-kspu/Taerobee  "net-lisias-kspu's GitHub Repo"
 
-<!--- license  -->
-[LIC:url]:  https://creativecommons.org/licenses/by-nd/3.0/ "CC BY-ND 3.0 Unported"
+<!--- license provenance-->
+[LIC:url]: https://creativecommons.org/licenses/by-nd/3.0/ "CC BY-ND 3.0 Unported"
 [LIC:log]: https://licensebuttons.net/i/l/by-nd/transparent/33/66/99/76x22.png "CC BY-ND 3.0 Unported"
-[LIC:shd]:  https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/json/license.json "CC BY-ND 3.0 Unported"
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/json/license.json "CC BY-ND 3.0 Unported"
 
-[LIC:org:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
-[LIC:org:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
-[LIC:org:shd]:  https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
+[LIC:0:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
+[LIC:0:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
+[LIC:0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
 
 <!--- AVC -->
-[AVC:shd]:     https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic "AVC"
-[AVCVLD:shd]:    https://github.com/zer0Kerbal/Taerobee/workflows/Validate%20AVC%20.version%20files/badge.svg?labelColor=black&style=plastic "AVC-Valid"
+[AVC:shd]: https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic "AVC"
+[AVCVLD:shd]: https://github.com/zer0Kerbal/Taerobee/workflows/Validate%20AVC%20.version%20files/badge.svg?labelColor=black&style=plastic "AVC-Valid - thank you to DasSkelett"
+
+<!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
 [CKAN:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-* "CKAN"
-[CKAN:shd]: https://img.shields.io/badge/CKAN-Taerobee-white.svg?labelColor=E32811&style=plastic "CKAN"
+<!-- [CKAN:shd]: https://img.shields.io/badge/CKAN-Taerobee-white.svg?labelColor=E32811&style=plastic "CKAN" -->
+[CKAN:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/json/ckan.json "CKAN"
 
 <!--- release links -->
 [CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/Taerobee "Curseforge"
@@ -206,21 +222,21 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 <!-- links to add-ons/mods -->
 
-[thread:mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager"
-[thread:rlp]: https://forum.kerbalspaceprogram.com/index.php?/topic/188033-* "Real Plume"
-[thread:wtfl]: https://forum.kerbalspaceprogram.com/index.php?/topic/196309-* "Waterfall Core"
-[thread:swfe]: https://forum.kerbalspaceprogram.com/index.php?/topic/200334-* "Stock Waterfall Effects"
+[mm]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+[rlp]: https://forum.kerbalspaceprogram.com/index.php?/topic/188033-*/ "Real Plume"
+[wtfl]: https://forum.kerbalspaceprogram.com/index.php?/topic/196309-*/ "Waterfall Core"
+[swfe]: https://forum.kerbalspaceprogram.com/index.php?/topic/200334-*/ "Stock Waterfall Effects"
 
 <!--- statics -->
-[LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
-[LINK:beale]: http://forum.kerbalspaceprogram.com/index.php?/profile/133334-beale/ "Beale"
-[LINK:cobaltwolf]: https://forum.kerbalspaceprogram.com/index.php?/profile/105588-cobaltwolf/ "CobaltWolf"
-[LINK:tk-313]: https://forum.kerbalspaceprogram.com/index.php?/profile/175537-tk-313/ "TK-313"
-[LINK:lisias]: https://forum.kerbalspaceprogram.com/index.php?/profile/187168-lisias/ "Lisias"
-[link:AtomikkuSan]: https://github.com/AtomikkuSan "AtomicTech / AtomikkuSan"
-[link:atomictech]: https://forum.kerbalspaceprogram.com/index.php?/profile/210823-atomictech/ "AtomicTech"
+[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
+[beale]: http://forum.kerbalspaceprogram.com/index.php?/profile/133334-*/ "Beale"
+[cobaltwolf]: https://forum.kerbalspaceprogram.com/index.php?/profile/105588-*/ "CobaltWolf"
+[tk-313]: https://forum.kerbalspaceprogram.com/index.php?/profile/175537-*/ "TK-313"
+[lisias]: https://forum.kerbalspaceprogram.com/index.php?/profile/187168-*/ "Lisias"
+[AtomikkuSan]: https://github.com/AtomikkuSan "AtomicTech / AtomikkuSan"
+[atomictech]: https://forum.kerbalspaceprogram.com/index.php?/profile/210823-*/ "AtomicTech"
 
-[UTUBE:img]:  https://img.youtube.com/vi/yz1PsuLLpho/0.jpg "YouTube! link"
+[UTUBE:img]: https://img.youtube.com/vi/yz1PsuLLpho/0.jpg "YouTube! link"
 [UTUBE:link]: https://youtu.be/yz1PsuLLpho "Kottabo Talks Taerobee"
 
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"
@@ -240,7 +256,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Italian-flag-sm.png "Italiano"
 [JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Japanese-flag-sm.png "日本語"
 [KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/South-Korean-flag-sm.png "한국어"
-[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Mexicano"
+[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Español Mexicano"
 [NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Dutch-flag-sm.png "Dutch"
 [NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Norwegian-flag-sm.png "Norsk"
 [PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Polish-flag-sm.png "Polski"
@@ -253,14 +269,3 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [^1]: ***may*** work on other versions (YMMV)
 [^2]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
 [^3]: this isn't a mod. ;P
-
-<!-- this file: CC BY-NC-ND 3.0 Unported BY zer0Kerbal-->
-
-<!-- 
-[IMG:hero:2a]: https://i.imgur.com/gJxT3Pg.png "1"
-[IMG:hero:2b]: https://i.imgur.com/TXJhTyh.png "2"
-[IMG:hero:2c]: https://i.imgur.com/gpRlRET.png "3"
-[IMG:hero:2d]: https://i.imgur.com/Tyc0WpP.png "3"
-![][IMG:hero:2a] ![][IMG:hero:2b]  
-![][IMG:hero:2c] ![][IMG:hero:2d]  
--->

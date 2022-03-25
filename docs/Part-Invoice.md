@@ -1,6 +1,6 @@
 ---
 permalink: /Part-Invoice.html
-title: Part Invoice
+title: Parts Invoice
 <head>
 	<title>Part Invoice</title>
 	<link rel="stylesheet" href="style.css">
@@ -85,5 +85,7 @@ This mod adds twenty-three (23) parts
 * [X1-tail.cfg]
 * [X1-engine.cfg]
 <img src="https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/GameData/Taerobee/Parts/%40thumbs/tbee-x1-tail_icon.png" alt="Tail" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/GameData/Taerobee/Parts/%40thumbs/tbee-x1-engine_icon.png" alt="Engine" width="25%" height="25%" />
+
+[top](#Part-Invoice)
 
 <!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal -->
