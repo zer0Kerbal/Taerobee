@@ -3,10 +3,15 @@ permalink: /Localizations.html
 title: Localizations
 ---
 
-<!-- Localizations.md v1.1.1.0
+<!-- Localizations.md v1.1.2.0
 Taerobee (TBEE)
 created: 01 Feb 2022
-updated: 22 Feb 2022 -->
+updated: 07 Mar 2022 -->
+
+[Home](https://zer0kerbal.github.io/Taerbee)
+
+<script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
+<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
 
 # Taerobee (TBEE)
 
