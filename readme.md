@@ -24,13 +24,13 @@ This mod adds some early rocket engines, such as Aerobee and X-4 (V-2 sounding r
 
 ## Features  
 
-* Adds 23 stockalike parts
+* Adds 24 stockalike parts
   * Taerobee - 13 size00 parts, including
     * LFO engine
     * Solid Fuel booster
     * two adapters (size0 --> size00)
     * Nosecone, control, animated science pod, and more
-  * Bumper - 6 size0 parts with two styles of engines, (V1)
+  * Bumper - 7 size0 parts with three styles of engines, (V1)
   * X-1 - 4 size1 parts, including a pod with simple IVA
 * RealPlume (haven't verified)
 * Stock Waterfall Effects
