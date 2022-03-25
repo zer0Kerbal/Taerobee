@@ -1,7 +1,6 @@
-# Taerobee 
+# Taerobee
 
 Taerobee (TBEE) adds some early rocket engines, such as Aerobee and X-4 (V-2 sounding rocket)
-
 
 ## Installation Instructions
 
