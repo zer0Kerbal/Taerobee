@@ -24,7 +24,7 @@ updated: 03 Jun 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/70533-beale/"><img border="0" alt="Beale" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2021_02/scrongolable.thumb.png.34a204aec1a871db4d1cee8a3549ce62.png" width="50" height="50" > Beale</a> for creating this <i>cool</i> mod.</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/70533-beale/"><img border="0" alt="Tantares (Beale)" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2021_02/scrongolable.thumb.png.34a204aec1a871db4d1cee8a3549ce62.png" width="50" height="50" > Tantares (Beale)</a> for creating this <i>cool</i> mod.</li>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/105588-cobaltwolf/"><img border="0" alt="CobaltWolf" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2019_02/PFP_2019.thumb.jpg.1bfcc53a8d2175db2f28bf8f0181a37f.jpg" width="50" height="50" > CobaltWolf</a> - models and more</li>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/187168-lisias/"><img border="0" alt="Lisias" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_03/_HR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAyMS81NDcvb3JpZ2luYWwvbGFpa2EuanBn.thumb_34e7fcb6640d163b3f2d08e4ae72bbaf.ba2fb8fa0e945f312ac6da46b71659fd" width="50" height="50" > Lisias</a> - for organization and initial prep</li>
   <li><i>Thanks to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
