@@ -2,7 +2,7 @@
  "schemaVersion": 1,
  "label": "Code",
  "labelColor": "66ccff",
- "message": "˂˂part.cfg˃˃ ˂˂Module Manager˃˃",
+ "message": "'<part.cfg'>' ",
  "color": "darkblue",
  "style": "plastic"
 }
