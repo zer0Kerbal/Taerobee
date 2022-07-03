@@ -1,29 +1,23 @@
 ---
-permalink: /Part-Invoice.html
+permalink: /PartInvoice.html
 title: Parts Invoice
-<head>
-	<title>Part Invoice</title>
-	<link rel="stylesheet" href="style.css">
-  <style>
-      .rotate_image {
-          -webkit-transform: rotate(45deg);
-          -moz-transform: rotate(45deg);
-          -ms-transform: rotate(45deg);
-          -o-transform: rotate(45deg);
-          transform: rotate(45deg);
-      }
-    </style>
-</head>
+description: Bill, what are going to do tonight? Why Jeb, the same thing we do every night, Take over the world!
+tags: parts,invoice,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- Part-Invoice.md v1.1.2.0
+<!-- PartInvoice.md v1.1.3.2
 Taerobee (TBEE)
 created: 01 Feb 2022
-updated: 22 Feb 2022 -->
+updated: 15 May 2022 -->
+
+<script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
+<i class="fa-solid fa-explosion fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #FF7E03" ></i>
 
 # Taerobee (TBEE)
 
-## Part Invoice
+[Home](./index.md)
+
+## Parts Invoice
 
 This mod adds twenty-three (23) parts
 <!-- no toc -->
@@ -33,7 +27,7 @@ This mod adds twenty-three (23) parts
 
 ---
 
-[top](#Part-Invoice)
+[top](#Parts-Invoice)
 
 ## Taerobee
 
@@ -58,7 +52,7 @@ This mod adds twenty-three (23) parts
 
 ---
 
-[top](#Part-Invoice)
+[top](#Parts-Invoice)
 
 ## Thumper
 
@@ -75,7 +69,7 @@ This mod adds twenty-three (23) parts
 
 ---
 
-[top](#Part-Invoice)
+[top](#Parts-Invoice)
 
 ## X-1
 
@@ -86,6 +80,6 @@ This mod adds twenty-three (23) parts
 * [X1-engine.cfg]
 <img src="https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/GameData/Taerobee/Parts/%40thumbs/tbee-x1-tail_icon.png" alt="Tail" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/GameData/Taerobee/Parts/%40thumbs/tbee-x1-engine_icon.png" alt="Engine" width="25%" height="25%" />
 
-[top](#Part-Invoice)
+[top](#Parts-Invoice)
 
-<!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal -->
+<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
