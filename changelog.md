@@ -10,6 +10,59 @@
 | spacedock  | (https://spacedock.info/mod/2905)                                |
 | ckan       | Taerobee                                                         |
 
+# Version 1.4.3.0-release `<EDITION>` edition
+
+* 01 Jul 2022
+* Release for Kerbal Space Program [KSP 1.12.x]
+
+## DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
+
+---
+
+## Changes
+
+### Fix minor issues in configs
+
+* Props\FlightSeat\
+  * [Prop_Seat_Passenger.cfg]
+  * move [proxy] inside braces {}
+* Parts\Bumper\
+  * [SlimJim.cfg]
+    * add missing `P` to PARTS
+* closes #152 - [Bug 🐞]: Fix minor issues in configs
+  
+### Localization
+
+* Add
+  * [en-us.cfg] v1.0.4.0
+  * [es-es.cfg] v1.0.2.1
+  * [es-mx.cfg] v1.0.2.1
+  * [ru.cfg] v1.0.2.1
+* updates #6 - Localization - Master
+* updates #117 -  Update Localization
+
+### Docs/
+
+* update [readme.md] v1.6.6.0
+* update [changelog.md] v1.4.1.0
+* add [Attribution.md] v1.1.0.0
+* /Localization
+* [LegalMumboJumbo]
+* [Part-Invoice]
+* ReleaseNotes/
+  * [1.4.3.0]
+
+### Status
+
+* Issues
+  * close #139 - 1.4.2.0 Social Media
+  * close #138 - 1.4.2.0 Update Documentation
+  * close #137 - 1.4.2.0 Verify Legal Mumbo Jumbo
+  * close #136 - Taerobee 1.4.2.0-release `<Grand Adventure's End>`
+  * close #135 - [Bug 🐞]: Update EnginesPlumeSWE.cfg
+  * close #134 - [Bug 🐞]: Alien Green Glow in the Editors
+
+---
 # Version 1.4.2.0-release `<Grand Adventure's End>`
 
 * 25 Mar 2022
