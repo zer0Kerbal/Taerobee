@@ -70,7 +70,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 > * ![English][EN] English
 > * ![Português Brasil][BR] Brazilian Portugues (Português Brasil)
-> * ![Español Mexicano][ME] Mexican Spanish (Español Mexicano)
+> * ![Español Mexicano][MX] Mexican Spanish (Español Mexicano)
 > * ![日本語][JA] Japanese (日本語)
 > * ![Русский][RU] Russian (Русский)
 > * ![Español][ES] Spanish (Español)
@@ -190,7 +190,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/changelog.md  "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/Taerobee/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*/ "Taerobee Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/205846-*/ "Taerobee Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/Taerobee/issues "Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/Taerobee/blob/master/LICENSE "Github License"
 [MOD:notic]: https://zer0kerbal.github.io/Taerobee/Notices "GitHub Pages"
