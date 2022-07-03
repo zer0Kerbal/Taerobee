@@ -21,6 +21,8 @@
 
 * add missing Thumbs
 * Fix minor issues in configs
+* [tbee-bumper-engine-slimJim.cfg]
+  * fixed scale issue preventing proper rendering of engine
 * Props\FlightSeat\
   * [Prop_Seat_Passenger.cfg]
   * move [proxy] inside braces {}
