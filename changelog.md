@@ -17,8 +17,10 @@
 
 ### Changes
 
-### Fix minor issues in configs
+### Parts
 
+* add missing Thumbs
+* Fix minor issues in configs
 * Props\FlightSeat\
   * [Prop_Seat_Passenger.cfg]
   * move [proxy] inside braces {}
