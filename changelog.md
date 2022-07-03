@@ -1,5 +1,5 @@
-# Changelog  
-  
+# Changelog 
+ 
 | modName    | Taerobee (TBEE)                                                  |
 | ---------- | ---------------------------------------------------------------- |
 | license    | CC-BY-ND-3.0                                                     |
@@ -10,16 +10,12 @@
 | spacedock  | (https://spacedock.info/mod/2905)                                |
 | ckan       | Taerobee                                                         |
 
-# Version 1.4.3.0-release `<EDITION>` edition
+## Version 1.4.3.0-release `<Japanese Brazil>` edition
 
 * 01 Jul 2022
 * Release for Kerbal Space Program [KSP 1.12.x]
 
-## DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
-
----
-
-## Changes
+### Changes
 
 ### Fix minor issues in configs
 
@@ -30,40 +26,53 @@
   * [SlimJim.cfg]
     * add missing `P` to PARTS
 * closes #152 - [Bug 🐞]: Fix minor issues in configs
-  
+
 ### Localization
 
+* Update
+  * [es-es.cfg] v1.0.3.0
+  * [es-mx.cfg] v1.0.2.3
+  * [ru.cfg] v1.0.2.2
 * Add
-  * [en-us.cfg] v1.0.4.0
-  * [es-es.cfg] v1.0.2.1
-  * [es-mx.cfg] v1.0.2.1
-  * [ru.cfg] v1.0.2.1
+  * [pt-br.cfg] v1.0.2.3
+    * thank you to AtomikkuSan!
+  * [ja.cfg] v1.0.0.0
+    * thank you to AtomikkuSan!
 * updates #6 - Localization - Master
-* updates #117 -  Update Localization
+* closes #9 - Localization - Brazil Portuguese (Português Brasil) <pt-br.cfg>
+* closes #17 - Localization - Japanese(日本語) <ja.cfg>
+* closes #117 - Update Localization
+* closes #118 - make sure all tags are complete
 
-### Docs/
+### Documentation
 
-* update [readme.md] v1.6.6.0
-* update [changelog.md] v1.4.1.0
-* add [Attribution.md] v1.1.0.0
-* /Localization
-* [LegalMumboJumbo]
-* [Part-Invoice]
-* ReleaseNotes/
-  * [1.4.3.0]
+* Add
+  * docs/
+    * [Notices.md] v1.0.1.0
+* update
+  * docs/
+    * [404.md] v1.0.3.2
+    * [_config.yml] v1.0.1.0
+    * [Attribution.md] v1.0.7.1
+    * [LegalMumboJumbo] v1.0.5.1
+    * [Localizations.md] v1.1.7.0
+    * [ManualInstallation.md] v1.1.7.0
+    * [Part-Invoice] v1.1.3.2
+  * [changelog.md] v1.4.1.0
+  * [readme.md] v1.6.6.0
+  * [ReleaseNotes] v1.3.2.0
 
 ### Status
 
 * Issues
-  * close #139 - 1.4.2.0 Social Media
-  * close #138 - 1.4.2.0 Update Documentation
-  * close #137 - 1.4.2.0 Verify Legal Mumbo Jumbo
-  * close #136 - Taerobee 1.4.2.0-release `<Grand Adventure's End>`
-  * close #135 - [Bug 🐞]: Update EnginesPlumeSWE.cfg
-  * close #134 - [Bug 🐞]: Alien Green Glow in the Editors
+  * closes #148 - Taerobee 1.4.3.0-release `<Japanese Brazil>`
+  * closes #149 - 1.4.3.0 Verify Legal Mumbo Jumbo
+  * closes #150 - 1.4.3.0 Update Documentation
+  * closes #151 - 1.4.3.0 Update Social Media
 
 ---
-# Version 1.4.2.0-release `<Grand Adventure's End>`
+
+## Version 1.4.2.0-release `<Grand Adventure's End>`
 
 * 25 Mar 2022
 * Release for Kerbal Space Program [KSP 1.12.x]
@@ -80,7 +89,7 @@
 * [tbee-bumper-engine-slimJim]
   * [title] = Thumper RM-1GU "Slim Jim" Rocket Motor
   * [description] = Who knew? We could reduce the weight by 20% again!
-  
+ 
 ### Localization and Compatibility
 
 * Update
@@ -126,14 +135,12 @@
 
 ---
 
-# Version 1.4.1.0 - Spanish Waterfall Snacks
+## Version 1.4.1.0 - Spanish Waterfall Snacks
 
 * 22 Feb 2022
 * Release for Kerbal Space Program [KSP 1.12.x]
 
 ## DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
-
----
 
 ### Parts
 
@@ -201,16 +208,14 @@
 
 ---
 
-# Version 1.4.0.0 - Mexican Waterfalls Adapted - 2022-01-31 [KSP 1.12.2]
+## Version 1.4.0.0 - Mexican Waterfalls Adapted - 2022-01-31 [KSP 1.12.2]
 
 * 28 Jan 2022
-* Release for Kerbal Space Program [KSP 1.12.x] 
+* Release for Kerbal Space Program [KSP 1.12.x]
 
 ## DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
 
----
-
-## Waterfall Effects
+### Waterfall Effects
 
 * Create <EnginesPlumeSWE.cfg>
 * Add stock waterfall effects
@@ -221,14 +226,14 @@
   * Stock Waterfall Effects
 * Closes #52 - Stock Waterfall Effects
 
-## Localization
+### Localization
 
 * Create <es-mx.cfg>
 * Adds Mexican translation - thank you - @JamesErvin-5 ⚽
 * closes #50
 * updates #6
 
-## Lint Compatibility Patches
+### Lint Compatibility Patches
 
 * closes #65 - Lint Compatibility Patches
 * [Little-Leo.cfg] v1.0.1.0
@@ -244,7 +249,7 @@
   * Thank you to @JamesErvin-5 for submitting these patches
   * closes #68 - Update [EnginesPlumeSWE.cfg] v1.0.1.0
 
-## Update X1
+### Update X1
 
 | ***X1***  |          | ***diameter (m)*** | ***height (m)*** | ***math*** | ***radius (m)*** | ***m²*** | ***Liters*** |
 | --------- | -------- | ------------------ | ---------------- | ---------- | ---------------- | -------- | ------------ |
@@ -300,7 +305,7 @@
       * packedVolume = 300
   * closes #73 - [tbee-x1-engine]
 
-## Update Bumper
+### Update Bumper
 
 | ***file name***      |           | ***diameter (m)*** | ***height (m)*** | ***width (m)*** | ***math*** | ***radius (m)*** | ***m²*** | ***Liters*** |
 | :------------------- | :-------: | -----------------: | ---------------: | :-------------: | ---------: | ---------------: | -------: | -----------: |
@@ -396,7 +401,7 @@
       * stackableQuantity = 4
   * closes #84 - [bumper-nose.cfg]
 
-## Update Taerobee
+### Update Taerobee
 
 | ***Taerobee***           |            | ***diameter (m)*** | ***height (m)*** | ***width (m)*** |     ***math***     | ***radius (m)*** | ***m²*** | ***Liters*** |
 | :----------------------- | :--------: | -----------------: | ---------------: | --------------: | :----------------: | ---------------: | -------: | -----------: |
@@ -673,7 +678,7 @@
       * stackableQuantity = 1
   * closes #99 - [taerobee-tinytim.cfg]
 
-## Status
+### Status
 
 * #25 - 7ranceaddic7 adoption- contributed by zer0Kerbal
 * #26 - merge in tythos adoption- contributed by zer0Kerbal
@@ -689,187 +694,189 @@
 * #85 - Revert &quot;Update Bumper&quot;- contributed by zer0Kerbal
 * #86 - Update Bumper issue: config- contributed by zer0Kerbal
 * #101 - Update taerobee 1.4.0.0 issue: config- contributed by zer0Kerbal
-* #1 - Adoption Legal MumboJumbo adoption
-* #2 - Adoption Documentation adoption
-* #3 - Release 1.3.9.9-adoption adoption
-* #4 - Adoption - GitHub adoption
-* #5 - Adoption - social media adoption
-* #7 - Localization - English (United States) &lt;en-us.cfg&gt; 
-* #8 - Localization - Russian (&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;) &lt;ru.cfg&gt; 
+* #1 - Adoption Legal MumboJumbo
+* #2 - Adoption Documentation
+* #3 - Release 1.3.9.9-adoption
+* #4 - Adoption - GitHub
+* #5 - Adoption - social media
+* #7 - Localization - English (United States) &lt;en-us.cfg&gt;
+* #8 - Localization - Russian (&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;) &lt;ru.cfg&gt;
 * #23 - Merge in other forks
-* #33 - Thumbnails adoption
+* #33 - Thumbnails
 * #34 - add antenna to both control parts
-* #35 - move art assets to Assets adoption
-* #36 - Update decoupler adoption
-* #37 - update English Localization &lt;en-us.cfg&gt; adoption
-* #39 - Update sustainer tank adoption
-* #40 - Update Bumper body adoption
-* #41 - Update Bumper engine adoption
-* #42 - Update Bumper engine unclad adoption
-* #43 - Update Bumper Nose adoption
-* #44 - Update X1 Body adoption
-* #45 - Update X1 Tail adoption
+* #35 - move art assets to Assets
+* #36 - Update decoupler
+* #37 - update English Localization &lt;en-us.cfg&gt;
+* #39 - Update sustainer tank
+* #40 - Update Bumper body
+* #41 - Update Bumper engine
+* #42 - Update Bumper engine unclad
+* #43 - Update Bumper Nose
+* #44 - Update X1 Body
+* #45 - Update X1 Tail
 
-# 1.3.9.9-adoption - Return to flight line [KSP 1.12.2] [ 03-12-2021]
+## 1.3.9.9-adoption - Return to flight line [KSP 1.12.2] [ 03-12-2021]
 
-## Update Compatibility Patches
+### Update Compatibility Patches
 
 * [Little-Leo.cfg] v1.0.1.0
-  - header/footer
-  - :FOR[Taerobee]
-  - name
+  * header/footer
+  * :FOR[Taerobee]
+  * name
 
 * [Aerobee-jr.cfg] v1.0.1.0
-  - header/footer
-  - :FOR[Taerobee]
-  - name
-  
-## Update Localization
+  * header/footer
+  * :FOR[Taerobee]
+  * name
+ 
+### Update Localization
 
 * English <en-us.cfg>
 * Russian <ru.cfg>
 * [taerobee.science.cfg]
-  - localize experiments
+  * localize experiments
 
-## Update
+### Update
+
 * file names
-  - underscore to dash '_' --> '-'
-  - change to all lowercase
-  - add 'tbee-' prefix
+  * underscore to dash '_' --> '-'
+  * change to all lowercase
+  * add 'tbee-' prefix
 * part names
-  - underscore to dash '_' --> '-'
+  * underscore to dash '_' --> '-'
 * ModuleEngines --> ModuleEnginesFX
 * add key = 7 0.001 to atmosphereCurve
 * ModuleCommand
 
-## Art Assets
+### Art Assets
+
 * moved into GameData/Taerobee/Assets
 * .mbm --> .dds in model files
 * convert to .png and archive .mbm files
 
-## Update INSTALL.md
+### Update INSTALL.md
 
-## Update decoupler
+### Update decoupler
 
 * add explosionPotential = 0.1
 * update FX from 'activate' to 'decouple'
 * adjust angular drag from 1.0 to 0.25
 * add
-  - stagingIcon = DECOUPLER_HOR
-  - ejectionForcePercent = 100
-  - fxGroupName = decouple
-  - menuName = Decouple Top Node
-  - stagingEnableText = #TBEE-decoup-enable
-  - stagingDisableText = #TBEE-decoup-disable
-  - menuName = #TBEE-decoup-menu
+  * stagingIcon = DECOUPLER_HOR
+  * ejectionForcePercent = 100
+  * fxGroupName = decouple
+  * menuName = Decouple Top Node
+  * stagingEnableText = #TBEE-decoup-enable
+  * stagingDisableText = #TBEE-decoup-disable
+  * menuName = #TBEE-decoup-menu
 * update #36
 
-## update English Localization <en-us.cfg>
+### update English Localization <en-us.cfg>
 
 * add
-  - #TBEE-taerobee-aerobee-tags
-  - #TBEE-taerobee-control-tags
-  - #TBEE-taerobee-decoupler-tags
-  - #TBEE-taerobee-despin-tags
-  - #TBEE-taerobee-fin-large-tags
-  - #TBEE-taerobee-nosecone-tags
-  - #TBEE-taerobee-parachute-tags
-  - #TBEE-taerobee-science-tags
-  - #TBEE-taerobee-fin-small-tags
-  - #TBEE-taerobee-Tank-Sustainer-3
-  - #TBEE-taerobee-TinyTim-tags [incomplete]
-  - #TBEE-decoup-enable = Decoupler: Enabled
-  - #TBEE-decoup-disable = Decoupler: Disabled
-  - #TBEE-decoup-menu = Decoupler: All Nodes
-  - #TBEE-Thermometer-open = Thermometer: Open Doors
-  - #TBEE-Thermometer-clos = Thermometer: Close Doors
-  - #TBEE-Thermometer-togl = Thermometer: Toggle Doors
-  - #TBEE-Barometer-open = Barometer: Open Doors
-  - #TBEE-Barometer-clos = Barometer: Close Doors
-  - #TBEE-Barometer-togl = Barometer: Toggle Doors
-* updates #31 
+  * #TBEE-taerobee-aerobee-tags
+  * #TBEE-taerobee-control-tags
+  * #TBEE-taerobee-decoupler-tags
+  * #TBEE-taerobee-despin-tags
+  * #TBEE-taerobee-fin-large-tags
+  * #TBEE-taerobee-nosecone-tags
+  * #TBEE-taerobee-parachute-tags
+  * #TBEE-taerobee-science-tags
+  * #TBEE-taerobee-fin-small-tags
+  * #TBEE-taerobee-Tank-Sustainer-3
+  * #TBEE-taerobee-TinyTim-tags [incomplete]
+  * #TBEE-decoup-enable = Decoupler: Enabled
+  * #TBEE-decoup-disable = Decoupler: Disabled
+  * #TBEE-decoup-menu = Decoupler: All Nodes
+  * #TBEE-Thermometer-open = Thermometer: Open Doors
+  * #TBEE-Thermometer-clos = Thermometer: Close Doors
+  * #TBEE-Thermometer-togl = Thermometer: Toggle Doors
+  * #TBEE-Barometer-open = Barometer: Open Doors
+  * #TBEE-Barometer-clos = Barometer: Close Doors
+  * #TBEE-Barometer-togl = Barometer: Toggle Doors
+* updates #31
 * closes #37
 
-## Update Russian Localization <ru.cfg>
+### Update Russian Localization <ru.cfg>
 
 * add [incomplete - needs translation]
-  - #TBEE-taerobee-TinyTim-tags
-  - #TBEE-decoup-enable = Decoupler: Enabled
-  - #TBEE-decoup-disable = Decoupler: Disabled
-  - #TBEE-decoup-menu = Decoupler: All Nodes
-  - #TBEE-Thermometer-open = Thermometer: Open Doors
-  - #TBEE-Thermometer-clos = Thermometer: Close Doors
-  - #TBEE-Thermometer-togl = Thermometer: Toggle Doors
-  - #TBEE-Barometer-open = Barometer: Open Doors
-  - #TBEE-Barometer-clos = Barometer: Close Doors
-  - #TBEE-Barometer-togl = Barometer: Toggle Doors
-* updates #31 
+  * #TBEE-taerobee-TinyTim-tags
+  * #TBEE-decoup-enable = Decoupler: Enabled
+  * #TBEE-decoup-disable = Decoupler: Disabled
+  * #TBEE-decoup-menu = Decoupler: All Nodes
+  * #TBEE-Thermometer-open = Thermometer: Open Doors
+  * #TBEE-Thermometer-clos = Thermometer: Close Doors
+  * #TBEE-Thermometer-togl = Thermometer: Toggle Doors
+  * #TBEE-Barometer-open = Barometer: Open Doors
+  * #TBEE-Barometer-clos = Barometer: Close Doors
+  * #TBEE-Barometer-togl = Barometer: Toggle Doors
+* updates #31
 * closes #38
 
-## Update sustainer tank
+### Update sustainer tank
 
 * change
-  - category = FuelTank from Propulsion
-  - maximum_drag = 0.2 from 0.3
-  - maxTemp = 2000 from 3400 
+  * category = FuelTank from Propulsion
+  * maximum_drag = 0.2 from 0.3
+  * maxTemp = 2000 from 3400
 * add
-  - breakingForce = 50
-  - breakingTorque = 50
-  - fuelCrossFeed = true
+  * breakingForce = 50
+  * breakingTorque = 50
+  * fuelCrossFeed = true
 * closes #39
 
-## Update Bumper body
+### Update Bumper body
 
 * change
-  - category = FuelTank from Propulsion
+  * category = FuelTank from Propulsion
 * closes #40
 
-## Update Bumper engine
+### Update Bumper engine
 
-* add 
-  - FXModuleAnimateThrottle
-  - heatConductivity = 0.06
-  - skinInternalConductionMult = 4.0
-  - emissiveConstant = 0.8
-  - key = 7 0.001
+* add
+  * FXModuleAnimateThrottle
+  * heatConductivity = 0.06
+  * skinInternalConductionMult = 4.0
+  * emissiveConstant = 0.8
+  * key = 7 0.001
 * update ModuleEngines to ModuleEnginesFX
 * closes #41
 
-## Update Bumper engine unclad
+### Update Bumper engine unclad
 
-* add 
-  - FXModuleAnimateThrottle
-  - heatConductivity = 0.06
-  - skinInternalConductionMult = 4.0
-  - emissiveConstant = 0.8
-  - key = 7 0.001
+* add
+  * FXModuleAnimateThrottle
+  * heatConductivity = 0.06
+  * skinInternalConductionMult = 4.0
+  * emissiveConstant = 0.8
+  * key = 7 0.001
 * update ModuleEngines to ModuleEnginesFX
 * closes #42
 
-## Update Bumper Nose
+### Update Bumper Nose
 
 * change
-  - category = FuelTank from Propulsion
+  * category = FuelTank from Propulsion
 * closes #43
 
-## Update X1 Body
+### Update X1 Body
 
 * change
-  - category = FuelTank from Propulsion
+  * category = FuelTank from Propulsion
 * closes #44
 
-## Update X1 Tail
+### Update X1 Tail
 
 * change
-  - category = FuelTank from Propulsion
+  * category = FuelTank from Propulsion
 * closes #45
 
-Change Log of Taerobee (Peter-JY/Taerobee)
-=====================================================
+# Change Log of Taerobee (Peter-JY/Taerobee)
 
-1.0.0
+## 1.0.0
+
 * Reposted Taerobee a.b.c, and change the version number to 1.0.0
 * Make it compatible with KSP 1.4.0~1.9.1
 * Add the original license of it
 
-*I found the original version number, but I temporarily forgot it. I will add it the next time I update the version.
+* I found the original version number, but I temporarily forgot it. I will add it the next time I update the version.
