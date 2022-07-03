@@ -115,11 +115,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 ### Suggests  
 
-* [Module Manager][mm] [^2]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
-* Either [^3]
-  * [Module Manager][mm]
-  * [Module Manager /L][mml]
 * [On Demand Fuel Cells (ODFC)][ODFC]
 
 ---
