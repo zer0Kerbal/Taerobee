@@ -4,7 +4,7 @@ title: ManualInstallation
 ---
 
 <!-- ManualInstallation.md v1.1.0.0
-Notes (NOTE)
+Taerobee (TBEE)
 created: 01 Oct 2019
 updated: 02 Mar 2022 -->
 

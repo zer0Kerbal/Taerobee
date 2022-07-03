@@ -1,0 +1,25 @@
+{
+    "schedule": "weekly",
+    "ignoredFiles": [
+        "GameData/Taerobee/*",
+        "source/*",
+        "**/@thumbs/**",
+        "**/Agencies/**",
+        "**/Assets/**",
+        "**/Flags/**",
+        "**/FX/**",
+        "**/Icons/**",
+        "**/LegalMumboJumbo/**",
+        "**/Parts/**",
+        "**/PluginData/**",
+        "**/Props/**",
+        "**/Spaces/**",
+        "**/Textures/**",
+        "**/UI/**",
+        "**/X1-Crew-Interior/**",
+        "**/FlightSeat/**"
+    ],
+    "aggressiveCompression": "false",
+    "compressWiki": "true",
+    "minKBReduced": 500
+}
