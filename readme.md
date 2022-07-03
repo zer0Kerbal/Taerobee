@@ -1,16 +1,14 @@
-<!-- readme.md v1.6.6.1
-Taerobee (TBEE)
-created: 01 Oct 2019
-updated: 22 Mar 2022 -->
+<!-- readme.md v1.6.9.0
+Taerobee Space Technologies (TBEE)  
+created: 17 Jul 2017
+updated: 24 Jun 2022 -->
 
-<!--this file: CC BY-ND 3.0 unported by zer0Kerbal-->
+<!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
-[![Taerobee][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Taerobee Space Technologies (TBEE)][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]   
+[![Pages][MOD:pages:shd]][MOD:pages]
 
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
-![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]
-
-[![GitHub Pages][MOD:pages:shd]][MOD:pages]
 
 
 
@@ -21,6 +19,8 @@ This mod adds some early rocket engines, such as Aerobee and X-4 (V-2 sounding r
 
 
 ## By [`zer0Kerbal`][zer0Kerbal] and originally by [`Beale`][beale]  
+
+adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ## Features  
 
@@ -37,31 +37,29 @@ This mod adds some early rocket engines, such as Aerobee and X-4 (V-2 sounding r
 
 ---
 
+### See More
+
+* Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
+* Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
+* Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:issue]
+* GitHub Pages : See [Pages][MOD:pages]
+
 ### Youtube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-kottabos/)
 
 [![Kottabos reviews Dreamer](https://img.youtube.com/vi/yz1PsuLLpho/0.jpg)](https://www.youtube.com/watch?v=yz1PsuLLpho)
 
-<details>
-  <summary><b>Youtube review by <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/ ">@Kottabos Gaming</a></b></summary>
-  Support on <a href="https://www.patreon.com/Kottabosgames">Patreon.</a>
-  <iframe width="1136" height="639" src="https://www.youtube.com/embed/yz1PsuLLpho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</details>
+---
 
 ### Cabin notes  
 
-* This pack is essentially feature and part complete.
-* There will be no additional parts.
-* There will be no more major versions (1.4.0.0) after this one.
+* There will be no additional parts and no more major versions (1.4.0.0) after this one.
 * Any minor releases will be for additional patches and improvements
 * I have not personally tested the patches  
-* _Have a request?_
-  * Glad to have them!
-    * Kindly submit through [GitHub][MOD:issue].
 
 ### Help Wanted
 >
-> * Variant Textures and code to make it work always welcome!
-> * Model updates to Unity 2019
+> * Compatibility patches
+> * Variant Textures
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
 ---
@@ -69,12 +67,16 @@ This mod adds some early rocket engines, such as Aerobee and X-4 (V-2 sounding r
 ### Localization
 
 > * ![English][EN] English
-> * ![Mexican Spanish][ME] Mexican Spanish (Español Mexicano) [incomplete]
-> * ![Spanish][ES] Spanish (Español) [incomplete]
-> * ![Russian][RU] Russian (Русский) [incomplete]
+> * ![Português Brasil][BR] Brazilian Portugues (Português Brasil)
+> * ![Español Mexicano][ME] Mexican Spanish (Español Mexicano)
+> * ![日本語][JA] Japanese (日本語)
+> * ![Русский][RU] Russian (Русский)
+> * ![Español][ES] Spanish (Español)
 > * ***your translation here***
 >
-> HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. _Additions and corrections welcome!_
+> several translations are incomplete
+>
+> HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 
 ---
 
