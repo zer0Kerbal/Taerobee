@@ -22,7 +22,7 @@ This mod adds some early rocket engines, such as Aerobee and X-4 (V-2 sounding r
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/img/HeroLogo_1920x1920.png" alt="Taerobee Hero" width="72%" height="72%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/img/HeroLogo_1920x1920.jpg" alt="Taerobee Hero" width="72%" height="72%">
 
 ## Features  
 
