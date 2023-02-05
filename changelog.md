@@ -1,13 +1,13 @@
-# Changelog 
- 
+# Changelog
+
 | modName    | Taerobee (TBEE)                                                  |
 | ---------- | ---------------------------------------------------------------- |
 | license    | CC-BY-ND-3.0                                                     |
-| author     | Tantares (Beale) and zer0Kerbal                                  |
+| author     | Beale (Tantares) and zer0Kerbal                                  |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/205846-*) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/Taerobee)              |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/Taerobee)            |
-| spacedock  | (https://spacedock.info/mod/2905)                                |
+| spacedock  | (https://spacedock.info/mod/2915)                                |
 | ckan       | Taerobee                                                         |
 
 ## Version 1.4.3.0-release `<Japanese Brazil>` edition
@@ -39,9 +39,9 @@
   * [ru.cfg] v1.0.2.2
 * Add
   * [pt-br.cfg] v1.0.2.3
-    * thank you to AtomikkuSan!
+    * courtesty of [AtomicTech](https://github.com/AtomicTech)
   * [ja.cfg] v1.0.0.0
-    * thank you to AtomikkuSan!
+    * courtesty of [AtomicTech](https://github.com/AtomicTech)
 * updates #6 - Localization - Master
 * closes #9 - Localization - Brazil Portuguese (Português Brasil) <pt-br.cfg>
 * closes #17 - Localization - Japanese(日本語) <ja.cfg>
@@ -81,20 +81,16 @@
 * 25 Mar 2022
 * Release for Kerbal Space Program [KSP 1.12.x]
 
-## DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
+## Changes 1.4.2.0
 
----
-
-## Changes
-
-### Parts
+### Parts 1.4.2.0
 
 * Add
 * [tbee-bumper-engine-slimJim]
   * [title] = Thumper RM-1GU "Slim Jim" Rocket Motor
   * [description] = Who knew? We could reduce the weight by 20% again!
  
-### Localization and Compatibility
+### Localization and Compatibility 1.4.2.0
 
 * Update
   * [EnginesPlumeSWE.cfg] v1.0.2.0
@@ -116,7 +112,7 @@
     * updates #6 - Localization - Master
     * updates #117 -  Update Localization
 
-### Docs/
+### Docs/ 1.4.2.0
 
 * update [readme.md] v1.6.6.0
 * update [changelog.md] v1.4.1.0
@@ -127,7 +123,7 @@
 * ReleaseNotes/
   * [1.4.3.0]
 
-### Status
+### Status 1.4.2.0
 
 * Issues
   * close #139 - 1.4.2.0 Social Media
@@ -144,9 +140,7 @@
 * 22 Feb 2022
 * Release for Kerbal Space Program [KSP 1.12.x]
 
-## DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
-
-### Parts
+### Parts 1.4.1.0
 
 * Update
 * [taerobee-parachute.cfg]
@@ -156,7 +150,7 @@
   * closes #129 - [Bug 🐞]: [tbee-taerobee-parachute] attachment
   * closes #122 - [Bug 🐞]: [tbee-taerobee-parachute] log errors
 
-### Localization and Compatibility
+### Localization and Compatibility 1.4.1.0
 
 * Update
   * [EnginesPlumeSWE.cfg] v1.0.1.0
@@ -166,16 +160,16 @@
 * Add
   * Localization - Spanish (Español) <es-es.cfg>
     * Create [es-es.cfg]
-    * Thank you to @AtomicTech aka AtomikkuSan
+    * Thank you to [AtomicTech](https://github.com/AtomicTech)
     * closes #21 - Localization - Spanish (Español) <es-es.cfg>
   * [Snacks.cfg] v1.0.1.0
     * Create [Snacks.cfg]
-    * Thank you to @AtomicTech aka AtomikkuSan
+    * Thank you to [AtomicTech](https://github.com/AtomicTech)
     * added :FOR[]
     * closes #109 -  Snacks-LS Support
   * [USI-LS.cfg] v1.0.1.0
     * create [USI-LS.cfg]
-    * Thank you to @AtomicTech aka AtomikkuSan
+    * Thank you to [AtomicTech](https://github.com/AtomicTech)
     * closes #120 -  USI-LS Support
   * localization files
     * [en-us.cfg] v1.0.3.0
@@ -186,7 +180,7 @@
     * updates #6 - Localization - Master
     * updates #117 -  Update Localization
 
-### Docs/
+### Docs/ 1.4.1.0
 
 * update [readme.md] v1.6.5.6
 * update [changelog.md] v1.4.1.0
@@ -199,7 +193,7 @@
   * [1.4.0.0]
   * [1.4.1.0]
 
-### Status
+### Status 1.4.10
 
 * Release changes (internal)
   * closes #112 -  Taerobee Release 1.4.1.0-release - Spanish Waterfall Snacks
@@ -217,23 +211,22 @@
 * 28 Jan 2022
 * Release for Kerbal Space Program [KSP 1.12.x]
 
-## DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
-
 ### Waterfall Effects
 
 * Create <EnginesPlumeSWE.cfg>
 * Add stock waterfall effects
-* Thank you! 🚀 - @JamesErvin-5
+* Thank you! [JamesErvin-5](https://github.com/JamesErvin-5) 🚀
 * Work-In-Progress
 * Requires to use:
   * Waterfall
   * Stock Waterfall Effects
 * Closes #52 - Stock Waterfall Effects
 
-### Localization
+### Localization 1.4.0.0
 
 * Create <es-mx.cfg>
-* Adds Mexican translation - thank you - @JamesErvin-5 ⚽
+* Adds Mexican translation
+* Thank you to [JamesErvin-5](https://github.com/JamesErvin-5) ⚽
 * closes #50
 * updates #6
 
@@ -250,7 +243,7 @@
   * Add header/footer
   * Add license (for now it is CC BY-SA 3.0 Unported)
   * Add `,StockWaterfallEffects` to the :NEEDS
-  * Thank you to @JamesErvin-5 for submitting these patches
+  * Thank you to [JamesErvin-5](https://github.com/JamesErvin-5) for submitting these patches
   * closes #68 - Update [EnginesPlumeSWE.cfg] v1.0.1.0
 
 ### Update X1
@@ -704,7 +697,7 @@
 * #4 - Adoption - GitHub
 * #5 - Adoption - social media
 * #7 - Localization - English (United States) &lt;en-us.cfg&gt;
-* #8 - Localization - Russian (&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;) &lt;ru.cfg&gt;
+* #8 - Localization - Russian ru.cfg
 * #23 - Merge in other forks
 * #33 - Thumbnails
 * #34 - add antenna to both control parts
