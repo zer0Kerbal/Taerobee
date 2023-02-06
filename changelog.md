@@ -2,7 +2,7 @@
 
 | modName    | Taerobee (TBEE)                                                  |
 | ---------- | ---------------------------------------------------------------- |
-| license    | CC-BY-NC-SA-4.0                                                  |
+| license    | CC-BY-ND-3.0                                                     |
 | author     | Beale (Tantares) and zer0Kerbal                                  |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/205846-*) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/Taerobee)              |
