@@ -1,7 +1,7 @@
 {
-	"NAME"			 : "Taerobee (TBEE) by Beale (Tantares)",
-	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/Taerobee.version",
-	"DOWNLOAD"		 : "https://github.com/zer0Kerbal/Taerobee/releases/latest",
+	"NAME"	    : "Taerobee (TBEE)",
+	"URL"	    : "https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/Taerobee.version",
+	"DOWNLOAD"  : "https://github.com/zer0Kerbal/Taerobee/releases/latest",
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/changelog.md",
 	"GITHUB" :
 	{
