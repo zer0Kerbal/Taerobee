@@ -11,9 +11,9 @@ updated: 17 Jan 2023 -->
 
 
 
-# Taerobee Space Technologies (TBEE)  
+# Taerobee (TBEE)  
 
-Adds some early rocket engines, such as Aerobee and X-4 (V-2 sounding rocket) to Kerbal Space Program.  
+Taerobee Space Technologies adds some early rocket engines, such as Aerobee and X-4 (V-2 sounding rocket) to Kerbal Space Program.  
 
 
 
