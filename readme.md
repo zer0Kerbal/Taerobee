@@ -3,7 +3,7 @@ Taerobee (TBEE)
 created: 17 Jul 2017
 updated: 17 Jan 2023 -->
 
-<!--this file: CC BY-NC-SA 4.0 by zer0Kerbal-->
+<!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
 [![Taerobee (TBEE)][MOD:shd]][forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][ckan:shd]][ckan:url]  
@@ -13,9 +13,8 @@ updated: 17 Jan 2023 -->
 
 # Taerobee Space Technologies (TBEE)  
 
-Add some early rocket engines, such as Aerobee and X-4 (V-2 sounding rocket) to Kerbal Space Program.  
+Adds some early rocket engines, such as Aerobee and X-4 (V-2 sounding rocket) to Kerbal Space Program.  
 
-Oringinal name: Taerobee
 
 
 ## By [`zer0Kerbal`][zer0Kerbal] and originally by [`Beale`][beale]  
