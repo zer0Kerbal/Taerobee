@@ -52,7 +52,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* [ChangeLog][chlog] for more details of changes
 >* [Discussions][discu] or [KSP Forums][forum] for discussions and news
 >* [GitHub Pages][pages]
->* [How it Works][works]
 >* [Known Issues][issue] for more details of feature requests and known issues
 >* [Marketing Slicks][markt]
 >* [Parts Catalog][parts] for part pictures
