@@ -157,7 +157,8 @@ OLD: [![CKAN][ckan:img]][ckan:url]
 > ##### Disclaimer(s)
 >
 > ***All bundled mods are distributed under their own licenses***  
-> ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
+> ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***  
+> ***License: [![License][LIC:1:shd]][LIC:1:url]***
 
 ##### see [Notices][notic] for more *legal mumbo jumbo*
 
