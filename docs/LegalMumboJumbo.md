@@ -24,20 +24,24 @@ this file CC BY-ND 4.0 by zer0Kerbal
 
 * Table of Contents
   * [Licenses](#licenses)
+    * []
     * [Original License](#original-license)
     * [Next License](#next-license)
     * [Current License](#current-license)
-  * [Forum Post #1](#forum-i1)
+  * [Forum Post #1](#forum-i)
   * [Forum Post #2](#forum-ii)
   * [Forum Post #3](#forum-iii)
   * [Forum Post #4](#forum-iv)
   * [Forum Post #5](#forum-v)
+  * [Forum Post #6](#forum-vi)
   
 ### Licenses
 
 #### Original License
 
 However the license was never listed and wasn't included in any form, so the actual license is `All Rights Reserved`.
+
+Unsubstantiated claim, included for completeness.
 
 [License](./LegalMumboJumbo/OrigLicense.md)
 [top](#legal-mumbo-jumbo)
@@ -47,6 +51,7 @@ However the license was never listed and wasn't included in any form, so the act
 Baele changed the license to All Rights Reserved
 
 [License](./LegalMumboJumbo/NextLicense.md)
+
 [top](#legal-mumbo-jumbo)
 
 #### Current License
@@ -56,11 +61,13 @@ Baele granted license to zer0Kerbal, who updated the license from All Rights Res
 All images, textures, models and other art assets remain 'All Rights Reserved' unless otherwise explicitly stated.
 
 [License](./LegalMumboJumbo/License.md)
+
 [top](#legal-mumbo-jumbo)
 
 ### Forum I
 
 ![Forum](./LegalMumboJumbo/FORUM-01.png)
+
 [top](#legal-mumbo-jumbo)
 
 ### Forum II
@@ -81,4 +88,9 @@ All images, textures, models and other art assets remain 'All Rights Reserved' u
 ### Forum V
 
 ![Forum](./LegalMumboJumbo/FORUM-05.png)
+[top](#legal-mumbo-jumbo)
+
+### Forum VI
+
+![Forum](./LegalMumboJumbo/FORUM-06.png)
 [top](#legal-mumbo-jumbo)
