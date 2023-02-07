@@ -37,8 +37,6 @@ this file CC BY-ND 4.0 by zer0Kerbal
 
 #### Original License
 
-However the license was never listed and wasn't included in any form, so the actual license is `All Rights Reserved`.
-
 [License](./LegalMumboJumbo/OrigLicense.md)
 [top](#legal-mumbo-jumbo)
 
@@ -51,9 +49,7 @@ Baele changed the license to All Rights Reserved
 
 #### Current License
 
-Baele granted license to zer0Kerbal, who updated the license from All Rights Reserved to `CC BY-ND 3.0 Unported` going forward (not retroactive)
-
-All images, textures, models and other art assets remain 'All Rights Reserved' unless otherwise explicitly stated.
+Baele granted license to zer0Kerbal, who changed the license from All Rights Reserved to CC BY-ND 4.0
 
 [License](./LegalMumboJumbo/License.md)
 [top](#legal-mumbo-jumbo)

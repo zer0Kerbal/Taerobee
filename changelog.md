@@ -2,13 +2,15 @@
 
 | modName    | Taerobee (TBEE)                                                  |
 | ---------- | ---------------------------------------------------------------- |
-| license    | CC-BY-ND-3.0                                                     |
+| license    | CC-BY-NC-SA-4.0                                                  |
 | author     | Beale (Tantares) and zer0Kerbal                                  |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/205846-*) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/Taerobee)              |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/Taerobee)            |
 | spacedock  | (https://spacedock.info/mod/2915)                                |
 | ckan       | Taerobee                                                         |
+
+### TIPS: This mod is firstly released under CC-BY-NC-SA 4.0
 
 ## Version 1.4.3.0-release `<Japanese Brazil>` edition
 
