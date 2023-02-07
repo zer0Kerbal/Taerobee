@@ -11,9 +11,9 @@ updated: 17 Jan 2023 -->
 
 
 
-# Taerobee Space Technologies (TBEE)  
+# Taerobee (TBEE)  
 
-Adds some early rocket engines, such as Aerobee and X-4 (V-2 sounding rocket) to Kerbal Space Program.  
+Taerobee Space Technologies adds some early rocket engines, such as Aerobee and X-4 (V-2 sounding rocket) to Kerbal Space Program.  
 
 
 
@@ -81,6 +81,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* ![Русский][RU] Russian (Русский) courtesy of [tk-313](https://github.com/tk-313)
 >* ![日本語][CN] Simplified Chinese (简体中文) courtesy of [Peter-JY](https://github.com/Peter-JY)
 >* ![Español][ES] Spanish (Español) courtesy of [AtomicTech](https://github.com/AtomicTech)
+>* ![国语][TW] Taiwanese (国语) courtesy of [Peter-JY](https://github.com/Peter-JY)
 >* ***your translation here***
 >
 > several translations are incomplete
@@ -156,8 +157,7 @@ OLD: [![CKAN][ckan:img]][ckan:url]
 > ##### Disclaimer(s)
 >
 > ***All bundled mods are distributed under their own licenses***  
-> ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***  
-> ***License: [![License][LIC:1:shd]][LIC:1:url]***
+> ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
 
 ##### see [Notices][notic] for more *legal mumbo jumbo*
 
@@ -166,14 +166,12 @@ OLD: [![CKAN][ckan:img]][ckan:url]
 > Forum: [Thread][MOD:2:thread] - [Download][MOD:2:dnload] - Source: [GitHub][MOD:2:source]  
 > License: [![License][LIC:2:shd]][LIC:2:url] ![License][LIC:2:log]
 
-#### Original (ROOT) (0) - Author: [`Beale`][beale]  
+#### Author (1) - Author: [`Beale`][beale]  
 
 > Forum: [Thread][MOD:1:thread] - [Download][MOD:1:dnload] - Source: [GitHub][MOD:1:source]  
 > License: [![License][LIC:1:shd]][LIC:1:url]
 
-#### Unsubstantiated (-1) - Author: [`Beale`][beale]  
-
-_There is no evidence to support this claim, however included to be complete_
+#### Original (ROOT) (0) - Author: [`Beale`][beale]  
 
 > Forum: [Thread][MOD:0:thread] - [Download][MOD:0:dnload] - Source: [GitHub][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
