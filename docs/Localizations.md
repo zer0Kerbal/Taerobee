@@ -29,6 +29,7 @@ has been translated into the following languages:
 * ![日本語][JA] Japanese(日本語) <ja.cfg>
 * ![Русский][RU] Russian (Русский) <ru.cfg>
 * ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>
+* ![国语][TW] Traditional Chinese (繁體中文) <zh-tw.cfg>
 
 __These localizations for KSP and its DLC's are available through Steam:__
 
@@ -44,7 +45,6 @@ __These localizations for KSP and its DLC's are available through Steam:__
 * ![Polski][PO] Polish (Polski) <pl.cfg>
 * ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>
 * ![Türk][TR] Turkish (Türk) <tr-tr.cfg>
-* ![国语][TW] Taiwanese (国语) <zh-tw.cfg>
 
 <!-- Localization -->
 [lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
