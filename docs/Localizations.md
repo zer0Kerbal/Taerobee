@@ -29,7 +29,7 @@ has been translated into the following languages:
 * ![日本語][JA] Japanese(日本語) <ja.cfg>
 * ![Русский][RU] Russian (Русский) <ru.cfg>
 * ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>
-* ![国语][TW] Traditional Chinese (繁體中文) <zh-tw.cfg>
+* ![繁體中文][TW] Traditional Chinese (繁體中文) <zh-tw.cfg>
 
 __These localizations for KSP and its DLC's are available through Steam:__
 
