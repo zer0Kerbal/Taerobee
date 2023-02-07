@@ -4,12 +4,13 @@ title: Legal Notices
 description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
 tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!--
 Notices.md v1.0.1.0
 Taerobee (TBEE)
 created: 13 Apr 2022
 updated: 15 May 2022
+
+this file CC BY-ND 4.0 by zer0Kerbal
 
 based upon work by LisiasT -->
 
@@ -23,6 +24,7 @@ based upon work by LisiasT -->
 ## Trademarks <i class="fa-solid fa-trademark fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: black" ></i>
 
 * "Taerobee" is trademark of Tantares (Beale)
+* "Taerobee Space Technologies" is trademark of Tantares (Beale)
 * "TBEE" is trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
@@ -40,6 +42,4 @@ based upon work by LisiasT -->
 
 Other trademarks and registered trademarks are the property of the respective trademark holders.
 
-© 2011-2022 zer0Kerbal™
-
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+© 2011-2023 zer0Kerbal™
