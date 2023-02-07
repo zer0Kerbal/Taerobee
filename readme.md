@@ -81,7 +81,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* ![Русский][RU] Russian (Русский) courtesy of [tk-313](https://github.com/tk-313)
 >* ![日本語][CN] Simplified Chinese (简体中文) courtesy of [Peter-JY](https://github.com/Peter-JY)
 >* ![Español][ES] Spanish (Español) courtesy of [AtomicTech](https://github.com/AtomicTech)
->* ![国语][TW] Taiwanese (国语) courtesy of [Peter-JY](https://github.com/Peter-JY)
 >* ***your translation here***
 >
 > several translations are incomplete
