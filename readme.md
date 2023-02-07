@@ -167,12 +167,14 @@ OLD: [![CKAN][ckan:img]][ckan:url]
 > Forum: [Thread][MOD:2:thread] - [Download][MOD:2:dnload] - Source: [GitHub][MOD:2:source]  
 > License: [![License][LIC:2:shd]][LIC:2:url] ![License][LIC:2:log]
 
-#### Author (1) - Author: [`Beale`][beale]  
+#### Original (ROOT) (0) - Author: [`Beale`][beale]  
 
 > Forum: [Thread][MOD:1:thread] - [Download][MOD:1:dnload] - Source: [GitHub][MOD:1:source]  
 > License: [![License][LIC:1:shd]][LIC:1:url]
 
-#### Original (ROOT) (0) - Author: [`Beale`][beale]  
+#### Unsubstantiated (-1) - Author: [`Beale`][beale]  
+
+_There is no evidence to support this claim, however included to be complete_
 
 > Forum: [Thread][MOD:0:thread] - [Download][MOD:0:dnload] - Source: [GitHub][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
