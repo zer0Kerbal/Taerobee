@@ -51,7 +51,9 @@ Baele changed the license to All Rights Reserved
 
 #### Current License
 
-Baele granted license to zer0Kerbal, who changed the license from All Rights Reserved to CC BY-ND 4.0
+Baele granted license to zer0Kerbal, who updated the license from All Rights Reserved to `CC BY-ND 3.0 Unported` going forward (not retroactive)
+
+All images, textures, models and other art assets remain 'All Rights Reserved' unless otherwise explicitly stated.
 
 [License](./LegalMumboJumbo/License.md)
 [top](#legal-mumbo-jumbo)
