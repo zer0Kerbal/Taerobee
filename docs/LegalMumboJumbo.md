@@ -37,6 +37,8 @@ this file CC BY-ND 4.0 by zer0Kerbal
 
 #### Original License
 
+However the license was never listed and wasn't included in any form, so the actual license is `All Rights Reserved`.
+
 [License](./LegalMumboJumbo/OrigLicense.md)
 [top](#legal-mumbo-jumbo)
 
