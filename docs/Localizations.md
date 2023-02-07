@@ -4,12 +4,11 @@ title: Localizations
 description: camera goes *click-click*
 tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
+
 <!-- Localizations.md v1.1.7.0
 Taerobee (TBEE)
 created: 01 Feb 2022
 updated: 03 Jun 2022 -->
-
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <div class="fa-3x">
@@ -28,13 +27,13 @@ has been translated into the following languages:
 * ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>
 * ![日本語][JA] Japanese(日本語) <ja.cfg>
 * ![Русский][RU] Russian (Русский) <ru.cfg>
-* ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>
 
 __These localizations for KSP and its DLC's are available through Steam:__
 
 * ![Deutsch][DE] German (Deutsch) <de.cfg>
 * ![Français][FR] French (Français) <fr-fr.cfg>
 * ![Italiano][IT] Italian (Italiano) <it-it.cfg>
+* ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>
 
 ## Additionally Included
 
@@ -68,3 +67,4 @@ __These localizations for KSP and its DLC's are available through Steam:__
 [TR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TR.png "Türk"
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TW.png "国语"
 
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal
