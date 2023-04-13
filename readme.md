@@ -79,7 +79,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* ![日本語][JA] Japanese (日本語) courtesty of [AtomicTech](https://github.com/AtomicTech)
 >* ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) courtesy of [JamesErvin-5](https://github.com/JamesErvin-5)
 >* ![Русский][RU] Russian (Русский) courtesy of [tk-313](https://github.com/tk-313)
->* ![日本語][CN] Simplified Chinese (简体中文) courtesy of [Peter-JY](https://github.com/Peter-JY)
 >* ![Español][ES] Spanish (Español) courtesy of [AtomicTech](https://github.com/AtomicTech)
 >* ![国语][TW] Taiwanese (国语) courtesy of [Peter-JY](https://github.com/Peter-JY)
 >* ***your translation here***
